@@ -25,7 +25,7 @@ Visit: <http://localhost:3030>
 Deploys are dispatched by commit messages:
 
 ```bash
-git add slides/<slide-name>.md
+git add <slide-name>.md
 
 git commit -m "deploy: <slide-name>"
 
@@ -46,4 +46,3 @@ For the first deployment:
 
 | Title | Slides Link |
 | ----- | ----------- |
-|       |             ||cat|-|-|[link](https://ahandsel.github.io/Talks/cat/)|
