@@ -46,6 +46,8 @@ For the first deployment:
   * [Slidev documentations](https://sli.dev/)
   * [fguisso/talks Repo](https://github.com/fguisso/talks)
   * [antfu/talks Repo](https://github.com/antfu/talks)
+  * [ahandsel/debugging_log/SliDev_LightVue](https://github.com/ahandsel/debugging_log/tree/master/SliDev_LightVue)
+  * [npx slidev --help](https://github.com/ahandsel/debugging_log/blob/master/SliDev_LightVue/SliDev_Basic/SliDev_Help.md#npx-slidev---help)
 
 ## Past talks
 
