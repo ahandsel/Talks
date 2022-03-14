@@ -1,8 +1,7 @@
 ---
 theme: light-icons
 layout: intro
-# image: 'https://source.unsplash.com/collection/94734566/1920x1080'
-image: './background/Tokyo_Morning.png'
+image: ./background/Tokyo_Morning.png
 ---
 
 <div class="mb-4 absolute top-20 left-12" style="text-align: right;">
@@ -38,7 +37,7 @@ Finally, we will go through our first month experiences & answer your questions
 
 ---
 layout: image-right
-image: './lewagon_cybozu_graphics/seb_design.png'
+image: ./lewagon_cybozu_graphics/seb_design.png
 ---
 
 # Sebastien Breuilles
@@ -65,7 +64,7 @@ I Join Cybozu because this company is not a "standard Japanese" company. I mean 
 
 ---
 layout: image-right
-image: './lewagon_cybozu_graphics/ami.png'
+image: ./lewagon_cybozu_graphics/ami.png
 equal: false
 left: false
 ---
@@ -92,7 +91,7 @@ I joined Cybozu because I felt it was ideal to pursue my dream to become an engi
 
 ---
 layout: image-right
-image: './lewagon_cybozu_graphics/nia_design.png'
+image: ./lewagon_cybozu_graphics/nia_design.png
 equal: false
 left: false
 ---
@@ -109,16 +108,16 @@ Favorite Movie?
 Tip For New Engineers:  
   - It's important to have many perspectives when designing something. Keep thinking about the positions of various people.
 
-<!-- 
+<!--
 Why did you join Cybozu?
 Why did you join Cybozu?
 I joined Cybozu because they value working with a team and employee's individuality.
 Working with a team can use own skills and also can help each other! I think it is important to respect each other when we work.
- -->
+-->
 
 ---
 layout: image-right
-image: './lewagon_cybozu_graphics/sam.png'
+image: ./lewagon_cybozu_graphics/sam.png
 equal: false
 left: false
 ---
@@ -135,9 +134,10 @@ Favorite Movie?
 Tip For New Engineers:  
   - Have fun! Accept challenges and be open to all the possibilities!
 
+
 ---
 layout: image-right
-image: './lewagon_cybozu_graphics/genji_round.png'
+image: ./lewagon_cybozu_graphics/genji_round.png
 equal: false
 left: false
 ---
@@ -157,11 +157,12 @@ Tip For New Engineers:
   - There are way more types of jobs than you might expect! It ranges from Dog food tester to AI ethics researcher!
 
 LinkedIn  -  [genji-fujimori-smith](https://www.linkedin.com/in/genji-fujimori-smith)  
-GitHub  -  [ahandsel](https://github.com/ahandsel/)  
+GitHub  -  [ahandsel](https://github.com/ahandsel/)
+
 
 ---
 layout: intro
-image: './background/Sakura.png'
+image: ./background/Sakura.png
 ---
 
 <div class="mb-4 absolute top-20 right-10" style=" position: absolute; text-align: right;">
@@ -180,9 +181,10 @@ image: './background/Sakura.png'
   </span>
 </div>
 
+
 ---
 layout: intro
-image: './background/Tokyo_Night.png'
+image: ./background/Tokyo_Night.png
 ---
 
 <div class="mb-4 absolute top-20 left-12" style=" position: absolute; right:0; text-align: right;">
@@ -201,14 +203,15 @@ image: './background/Tokyo_Night.png'
   </div>
 </div>
 
+
 ---
 layout: image-right
-image: './lewagon_cybozu_graphics/KDP_Bar.png'
+image: ./lewagon_cybozu_graphics/KDP_Bar.png
 equal: false
 left: false
 ---
 
-  <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
       Global Developer Advocate Role <i class="light-icon-pencil"></i>
     </a>
@@ -228,14 +231,16 @@ Help developers around the world get excited to use & create on Kintone!
   - Host in-person & virtual coding workshops!  
   - Sponsor & mentor in hackathons!
 
-  <!-- We support engineers in customizing & integrating Kintone in their workplace!-->
+<!--
+We support engineers in customizing & integrating Kintone in their workplace!
+-->
 
 ---
 layout: center-image
-image: './lewagon_cybozu_graphics/kdp_collage.png'
+image: ./lewagon_cybozu_graphics/kdp_collage.png
 ---
 
-  <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <div><br></div>
     <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
       Global Developer Advocate Role <i class="light-icon-pencil"></i>
@@ -243,14 +248,15 @@ image: './lewagon_cybozu_graphics/kdp_collage.png'
     <div><br></div>
   </div>
 
+
 ---
 layout: image-right
-image: './lewagon_cybozu_graphics/KDP_Bar_2.png'
+image: ./lewagon_cybozu_graphics/KDP_Bar_2.png
 equal: false
 left: false
 ---
 
-  <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
       Global Developer Advocate Role <i class="light-icon-pencil"></i>
     </a>
@@ -281,11 +287,12 @@ left: false
     </a>
   </div>
 
+
 ---
 layout: my-two-columns
 ---
 
-  <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
+<div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <a href="https://cybozu.co.jp/company/job/recruitment/newgrad/systemconsulting.html">
       Other Engineering Positions <i class="light-icon-sitemap"></i>
     </a>
@@ -310,9 +317,10 @@ They oversee our products' various SDKs such as [js-sdk](https://github.com/kint
 
 Developer Tools Engineering is a great role for those who want to build everything from VS Code extensions to CLI tools.
 
+
 ---
 layout: image-right
-image: './lewagon_cybozu_graphics/SC_Bar.png'
+image: ./lewagon_cybozu_graphics/SC_Bar.png
 equal: false
 left: false
 ---
@@ -338,6 +346,7 @@ Check out this Japanese article to learn more about Cybozu's System Consulting D
       Learn more about the new graduate hiring track at: cybozu.co.jp/company/job/recruitment/newgrad/
     </a>
   </div>
+
 
 ---
 
