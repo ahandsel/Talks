@@ -52,4 +52,4 @@ For the first deployment:
 ## Past talks
 
 | Title | Slides Link |
-| ----- | ----------- |
+| ----- | ----------- || lewagon_cybozu | <https://ahandsel.github.io/Talks/lewagon_cybozu/> |
