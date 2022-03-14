@@ -1,11 +1,49 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Welcome to My Slides
 
-To start the slide show:
+  * Powered by [Sli.dev](https://sli.dev) + Github Actions + Github Pages
+  * Thanks to [fguisso](https://github.com/fguisso/talks) for building the repo setup
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+## Outline <!-- omit in toc -->
+<!-- markdownlint-disable MD007 -->
+* [Running for development](#running-for-development)
+* [Deploy in Github Pages](#deploy-in-github-pages)
+* [Resources on Creating Slides with Slidev](#resources-on-creating-slides-with-slidev)
+* [Past talks](#past-talks)
+<!-- markdownlint-enable MD007 -->
 
-Edit the [slides.md](./slides.md) to see the changes.
+## Running for development
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+```shell
+npm install
+npm run dev -- slides/my-slide.md
+```
+
+Visit: <http://localhost:3030>
+
+## Deploy in Github Pages
+
+Deploys are dispatched by commit messages:
+
+```bash
+git add slides/<slide-name>.md
+
+git commit -m "deploy: <slide-name>"
+
+git push
+```
+
+For the first deployment:
+  1. GitHub Repo > Settings > GitHub Pages
+  2. Set **Source** to `gh-pages` branch
+
+## Resources on Creating Slides with Slidev
+
+  * [Slidev documentations](https://sli.dev/)
+  * [fguisso/talks Repo](https://github.com/fguisso/talks)
+  * [antfu/talks Repo](https://github.com/antfu/talks)
+
+## Past talks
+
+| Title | Slides Link |
+| ----- | ----------- |
+|       |             |
