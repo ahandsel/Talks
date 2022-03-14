@@ -3,7 +3,7 @@ theme: seriph
 title: Welcome to Slidev
 ---
 
-# Welcome to Slidev
+# Panda
 
 Presentation slides for developers
 
