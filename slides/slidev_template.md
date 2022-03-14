@@ -330,5 +330,4 @@ layout: cover
 background: ./Computer_Table_SYTO3xs06fU.jpg
 ---
 
-# Testing public image location
-## Now testing GitHub Actions
+# Test 2 for GitHub Actions
