@@ -1,24 +1,17 @@
 ---
-# try also 'default' to start simple
 theme: seriph
-# random image from a curated Unsplash collection by Anthony
-# like them? see https://unsplash.com/collections/94734566/slidev
 background: https://source.unsplash.com/collection/94734566/1920x1080
-# apply any windi css classes to the current slide
-class: 'text-center'
-# https://sli.dev/custom/highlighters.html
+class: text-center
 highlighter: shiki
-# show line numbers in code blocks
 lineNumbers: false
-# some information about the slides, markdown enabled
 info: |
   ## Slidev Starter Template
   Presentation slides for developers.
 
   Learn more at [Sli.dev](https://sli.dev)
-# persist drawings in exports and build
 drawings:
   persist: false
+title: Welcome to Slidev
 ---
 
 # Welcome to Slidev
@@ -81,6 +74,7 @@ h1 {
 }
 </style>
 
+
 ---
 
 # Navigation
@@ -103,6 +97,7 @@ Hover on the bottom-left corner to see the navigation's controls panel, [learn m
   src="https://sli.dev/assets/arrow-bottom-left.svg"
 />
 <p v-after class="absolute bottom-23 left-45 opacity-30 transform -rotate-10">Here!</p>
+
 
 ---
 layout: image-right
@@ -143,6 +138,7 @@ function updateUser(id: number, update: User) {
   display: none;
 }
 </style>
+
 
 ---
 
@@ -207,6 +203,7 @@ theme: seriph
 
 Read more about [How to use a theme](https://sli.dev/themes/use.html) and
 check out the [Awesome Themes Gallery](https://sli.dev/themes/gallery.html).
+
 
 ---
 preload: false
@@ -284,6 +281,7 @@ const final = {
 
 </div>
 
+
 ---
 
 # LaTeX
@@ -311,6 +309,7 @@ $$
 <br>
 
 [Learn more](https://sli.dev/guide/syntax#latex)
+
 
 ---
 
@@ -346,6 +345,7 @@ class: text-center
 # Learn More
 
 [Documentations](https://sli.dev) · [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/showcases.html)
+
 
 ---
 layout: cover
