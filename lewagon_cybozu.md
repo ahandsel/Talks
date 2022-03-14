@@ -22,7 +22,7 @@ image: ./background/Tokyo_Morning.png
 </div>
 
 <div class="absolute bottom-5 left-12">
-  <span @click="next" class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
+  <span @click="$slidev.nav.next" class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
     Press Space for the next page  <light-icon icon="arrow-narrow-right" size="24px"/>
   </span>
 </div>
