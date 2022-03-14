@@ -7,6 +7,7 @@
 <!-- markdownlint-disable MD007 -->
 * [Running for development](#running-for-development)
 * [Deploy in Github Pages](#deploy-in-github-pages)
+* [Useful Commands](#useful-commands)
 * [Resources on Creating Slides with Slidev](#resources-on-creating-slides-with-slidev)
 * [Past talks](#past-talks)
 <!-- markdownlint-enable MD007 -->
@@ -35,6 +36,10 @@ git push
 For the first deployment:
   1. GitHub Repo > Settings > GitHub Pages
   2. Set **Source** to `gh-pages` branch
+
+## Useful Commands
+
+  * Format the markdown file: `npm run format <slide-name>.md`
 
 ## Resources on Creating Slides with Slidev
 
