@@ -47,3 +47,4 @@ For the first deployment:
 | Title | Slides Link |
 | ----- | ----------- |
 | cat | <https://ahandsel.github.io/Talks/cat/> |
+| panda | <https://ahandsel.github.io/Talks/panda/> |
