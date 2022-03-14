@@ -1,4 +1,4 @@
-# Welcome to My Slides
+# Welcome to My Talks
 
   * Powered by [Sli.dev](https://sli.dev) + Github Actions + Github Pages
   * Thanks to [fguisso](https://github.com/fguisso/talks) for building the repo setup
@@ -51,6 +51,6 @@ For the first deployment:
 
 ## Past talks
 
-| Title | Slides Link |
-| ----- | ----------- |
-| lewagon_cybozu | <https://ahandsel.github.io/Talks/lewagon_cybozu/> |
+| Title                               | Slides Link                                        |
+| ----------------------------------- | -------------------------------------------------- |
+| [lewagon_cybozu](lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/lewagon_cybozu/> |
