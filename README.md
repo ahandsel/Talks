@@ -54,3 +54,4 @@ For the first deployment:
 | Title                               | Slides Link                                        |
 | ----------------------------------- | -------------------------------------------------- |
 | [lewagon_cybozu](lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/lewagon_cybozu/> |
+| Book_ConnectingParagraphs_JP | <https://ahandsel.github.io/Talks/Book_ConnectingParagraphs_JP/> |
