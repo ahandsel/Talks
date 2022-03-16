@@ -7,7 +7,7 @@
 <!-- markdownlint-disable MD007 -->
 * [Running for development](#running-for-development)
 * [Deploy in Github Pages](#deploy-in-github-pages)
-* [Useful Commands](#useful-commands)
+* [Commands](#commands)
 * [Resources on Creating Slides with Slidev](#resources-on-creating-slides-with-slidev)
 * [Past talks](#past-talks)
 <!-- markdownlint-enable MD007 -->
@@ -37,9 +37,14 @@ For the first deployment:
   1. GitHub Repo > Settings > GitHub Pages
   2. Set **Source** to `gh-pages` branch
 
-## Useful Commands
+## Commands
 
-  * Format the markdown file: `npm run format <slide-name>.md`
+| Commands                         | Purpose                  |
+| -------------------------------- | ------------------------ |
+| `npm run format <slide-name>.md` | Format the markdown file |
+| `npm run build <slide-name>.md`  | Build for production SPA |
+| `npm run dev <slide-name>.md`    | Start dev server         |
+| `npm run export <slide-name>.md` | Export slides to pdf     |
 
 ## Resources on Creating Slides with Slidev
 
@@ -51,7 +56,7 @@ For the first deployment:
 
 ## Past talks
 
-| Title                               | Slides Link                                        |
-| ----------------------------------- | -------------------------------------------------- |
-| [lewagon_cybozu](lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/lewagon_cybozu/> |
-| Book_ConnectingParagraphs_JP | <https://ahandsel.github.io/Talks/Book_ConnectingParagraphs_JP/> |
+| Title                               | Slides Link                                                      |
+| ----------------------------------- | ---------------------------------------------------------------- |
+| [lewagon_cybozu](lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/lewagon_cybozu/>               |
+| [Book_ConnectingParagraphs_JP](Book_ConnectingParagraphs_JP.md)        | <https://ahandsel.github.io/Talks/Book_ConnectingParagraphs_JP/> |
