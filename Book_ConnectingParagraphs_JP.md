@@ -7,6 +7,7 @@ lineNumbers: false
 drawings:
   persist: false
 title: 2-5 パラグラフを接続する
+selectable: true
 ---
 
 # 2-5 パラグラフを接続する

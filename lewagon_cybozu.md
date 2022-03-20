@@ -2,6 +2,7 @@
 theme: light-icons
 layout: intro
 image: ./background/Tokyo_Morning.png
+selectable: true
 ---
 
 <div class="mb-4 absolute top-20 left-12" style="text-align: right;">
