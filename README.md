@@ -60,3 +60,4 @@ For the first deployment:
 | ----------------------------------- | ---------------------------------------------------------------- |
 | [lewagon_cybozu](lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/lewagon_cybozu/>               |
 | [Book_ConnectingParagraphs_JP](Book_ConnectingParagraphs_JP.md)        | <https://ahandsel.github.io/Talks/Book_ConnectingParagraphs_JP/> |
+| Book_ConnectingParagraphs_JP | <https://ahandsel.github.io/Talks/Book_ConnectingParagraphs_JP/> |
