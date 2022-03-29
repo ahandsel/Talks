@@ -1,7 +1,7 @@
 # Welcome to My Talks
 
-  * Powered by [Sli.dev](https://sli.dev) + Github Actions + Github Pages
-  * Thanks to [fguisso](https://github.com/fguisso/talks) for building the repo setup
+* Powered by [Sli.dev](https://sli.dev) + Github Actions + Github Pages
+* Thanks to [fguisso](https://github.com/fguisso/talks) for building the repo setup
 
 ## Outline <!-- omit in toc -->
 <!-- markdownlint-disable MD007 -->
@@ -34,6 +34,7 @@ git push
 ```
 
 For the first deployment:
+
   1. GitHub Repo > Settings > GitHub Pages
   2. Set **Source** to `gh-pages` branch
 
@@ -48,17 +49,15 @@ For the first deployment:
 
 ## Resources on Creating Slides with Slidev
 
-  * [Slidev documentations](https://sli.dev/)
-  * [fguisso/talks Repo](https://github.com/fguisso/talks)
-  * [antfu/talks Repo](https://github.com/antfu/talks)
-  * [ahandsel/debugging_log/SliDev_LightVue](https://github.com/ahandsel/debugging_log/tree/master/SliDev_LightVue)
-  * [npx slidev --help](https://github.com/ahandsel/debugging_log/blob/master/SliDev_LightVue/SliDev_Basic/SliDev_Help.md#npx-slidev---help)
+* [Slidev documentations](https://sli.dev/)
+* [fguisso/talks Repo](https://github.com/fguisso/talks)
+* [antfu/talks Repo](https://github.com/antfu/talks)
+* [ahandsel/debugging_log/SliDev_LightVue](https://github.com/ahandsel/debugging_log/tree/master/SliDev_LightVue)
+* [npx slidev --help](https://github.com/ahandsel/debugging_log/blob/master/SliDev_LightVue/SliDev_Basic/SliDev_Help.md#npx-slidev---help)
 
 ## Past talks
 
-| Title                               | Slides Link                                                      |
-| ----------------------------------- | ---------------------------------------------------------------- |
-| [lewagon_cybozu](lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/lewagon_cybozu/>               |
-| [Book_ConnectingParagraphs_JP](Book_ConnectingParagraphs_JP.md)        | <https://ahandsel.github.io/Talks/Book_ConnectingParagraphs_JP/> |
-| Book_ConnectingParagraphs_JP | <https://ahandsel.github.io/Talks/Book_ConnectingParagraphs_JP/> |
-| lewagon_cybozu | <https://ahandsel.github.io/Talks/lewagon_cybozu/> |
+| Title                                                           | Slides Link                                                      |
+| --------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [lewagon_cybozu](lewagon_cybozu.md)                             | <https://ahandsel.github.io/Talks/lewagon_cybozu/>               |
+| [Book_ConnectingParagraphs_JP](Book_ConnectingParagraphs_JP.md) | <https://ahandsel.github.io/Talks/Book_ConnectingParagraphs_JP/> |
