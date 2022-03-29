@@ -3,10 +3,13 @@ theme: light-icons
 layout: intro
 image: ./background/Tokyo_Morning.png
 selectable: true
+download: true
+title: First Month as an Engineer at Cybozu
+info: Cybozu's "First Month as an Engineer" Talk with Le Wagon Tokyo
 ---
 
 <div class="mb-4 absolute top-20 left-12" style="text-align: right;">
-  <span class="text-6xl text-primary-lighter text-opacity-80" style="font-weight:500;" >
+  <span class="text-6xl text-primary-lighter text-opacity-80" style="font-weight:500;">
     First Month as an Engineer <light-icon icon="settings"/>
   </span>
   <div class="text-7xl text-white text-opacity-60" style="font-weight:600;" >
@@ -37,21 +40,24 @@ Finally, we will go through our first month experiences & answer your questions
 -->
 
 ---
-layout: image-right
+layout: image-left
 image: ./lewagon_cybozu_graphics/seb_design.png
 ---
 
 # Sebastien Breuilles
 ## Kintone UX UI designer 🇫🇷
-  - Study design In Paris 🥐
-  - First moved to Tokyo on a Working Holiday visa
-  - Based in Saitama 🍘
+
+- Study design In Paris 🥐
+- First moved to Tokyo on a Working Holiday visa
+- Based in Saitama 🍘
 
 Favorite Movie?  
-  - Huge Star Wars fan! ❤️
+
+- Huge Star Wars fan! ❤️
 
 Tip For New Engineers:  
-  - The world is moving fast. Constantly be aware of new techniques & technology!
+
+- The world is moving fast. Constantly be aware of new techniques & technology!
 
 LinkedIn  -  [sébastien-breuilles](https://www.linkedin.com/in/sébastien-breuilles-292b1b66/)
 
@@ -72,15 +78,18 @@ left: false
 
 # Ami Shiratori
 ## Kintone Engineer 🇯🇵
-  - Born in Aichi 🏯
-  - Lived in Chiba & USA 🌊 🇺🇸
-  - Based in Tokyo 🗼
+
+- Born in Aichi 🏯
+- Lived in Chiba & USA 🌊 🇺🇸
+- Based in Tokyo 🗼
 
 Favorite Movie?  
-  - [Midnight in Paris](https://g.co/kgs/NZiwep) ❤️
+
+- [Midnight in Paris](https://g.co/kgs/NZiwep) ❤️
 
 Tip For New Engineers:  
-  - Cherish your passion for experimenting with new and fun technology!
+
+- Cherish your passion for experimenting with new and fun technology!
 
 GitHub  -  [amishiratori (Ami Shiratori)](https://github.com/amishiratori)
 
@@ -99,15 +108,18 @@ left: false
 
 # Nia
 ## Assistant designer 🇯🇵 🇺🇸
-  - Born in Okinawa 🏖️
-  - Based in Tokyo 🗼
+
+- Born in Okinawa 🏖️
+- Based in Tokyo 🗼
 
 Favorite Movie?  
-  - Marvel series! ❤️
-  - [Black Panther](https://g.co/kgs/tH4usX) is the best! ❤️‍🔥
+
+- Marvel series! ❤️
+- [Black Panther](https://g.co/kgs/tH4usX) is the best! ❤️‍🔥
 
 Tip For New Engineers:  
-  - It's important to have many perspectives when designing something. Keep thinking about the positions of various people.
+
+- It's important to have many perspectives when designing something. Keep thinking about the positions of various people.
 
 <!--
 Why did you join Cybozu?
@@ -125,15 +137,18 @@ left: false
 
 # Sam Kuo
 ## Product Designer 🇹🇼
-  - Studied Political Science in Taiwan 📖
-  - Studied design in Japan 🎨
-  - Based in Tokyo 🗼
+
+- Studied Political Science in Taiwan 📖
+- Studied design in Japan 🎨
+- Based in Tokyo 🗼
 
 Favorite Movie?  
-  - Harry Potter! ❤️
+
+- Harry Potter! ❤️
 
 Tip For New Engineers:  
-  - Have fun! Accept challenges and be open to all the possibilities!
+
+- Have fun! Accept challenges and be open to all the possibilities!
 
 
 ---
@@ -145,17 +160,20 @@ left: false
 
 # Genji Fujimori
 ## Global Developer Advocate  🇯🇵 🇺🇸
-  - Born in Alaska 🐻‍❄️
-  - Lived in Cupertino <light-icon icon="brand-apple"/>
-  - Studied IT Management at UC Santa Cruz
+
+- Born in Alaska 🐻‍❄️
+- Lived in Cupertino <light-icon icon="brand-apple"/>
+- Studied IT Management at UC Santa Cruz
 
 
 Favorite Movie?  
-  - [Laputa: Castle in the Sky](https://g.co/kgs/YbtgxN) ❤️
-  <!-- - [Servant](https://g.co/kgs/CVN4qi) 👀 -->
+
+- [Laputa: Castle in the Sky](https://g.co/kgs/YbtgxN) ❤️
+<!-- - [Servant](https://g.co/kgs/CVN4qi) 👀 -->
 
 Tip For New Engineers:  
-  - There are way more types of jobs than you might expect! It ranges from Dog food tester to AI ethics researcher!
+
+- There are way more types of jobs than you might expect! It ranges from Dog food tester to AI ethics researcher!
 
 LinkedIn  -  [genji-fujimori-smith](https://www.linkedin.com/in/genji-fujimori-smith)  
 GitHub  -  [ahandsel](https://github.com/ahandsel/)
@@ -226,11 +244,11 @@ Help developers around the world get excited to use & create on Kintone!
 
 ### How?
 
-  - Write comprehensive API documentation
-  - Develop customizations with the latest tech trends
-  - Create useful tutorials!
-  - Host in-person & virtual coding workshops!  
-  - Sponsor & mentor in hackathons!
+- Write comprehensive API documentation
+- Develop customizations with the latest tech trends
+- Create useful tutorials!
+- Host in-person & virtual coding workshops!  
+- Sponsor & mentor in hackathons!
 
 <!--
 We support engineers in customizing & integrating Kintone in their workplace!
@@ -270,15 +288,16 @@ left: false
 
 ### Requirements
 
-  - Fluent in English & Japanese
-  - 1+ year of coding experience at a company <br> *or* graduated from a Coding Bootcamp
+- Fluent in English & Japanese
+- 1+ year of coding experience at a company <br> *or* graduated from a Coding Bootcamp
 
 <br>
 
 ### Nice To Haves
-  - Written & published technical tutorials
-  - Managed/ hosted technical workshops
-  - Experience in data analysis for website analytics
+
+- Written & published technical tutorials
+- Managed/ hosted technical workshops
+- Experience in data analysis for website analytics
 
 <br>
 
