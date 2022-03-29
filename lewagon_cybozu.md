@@ -36,7 +36,7 @@ Hello everyone, Thank you for having us over!
 
 First, we will do a quick introductions.
 Then I can go over a few engineering positions at Cybozu.
-Finally, we will go through our first month experiences & answer your questions
+Finally, we will go through our first month experiences & answer your questions.
 -->
 
 ---
