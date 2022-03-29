@@ -1,6 +1,7 @@
 ---
 theme: light-icons
 layout: intro
+favicon: ./Kintone/KDP_favicon.png
 image: ./background/Tokyo_Morning.png
 selectable: true
 ---
