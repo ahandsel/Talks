@@ -2,4 +2,8 @@
 
 Looks like you are lost 😅  
 
-Head over to [github.com/ahandsel/Talks](https://github.com/ahandsel/Talks) ~
+## Past talks
+
+| Title                                             | Slides Link                                               |
+| ------------------------------------------------- | --------------------------------------------------------- |
+| [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/> |
