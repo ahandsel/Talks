@@ -2,9 +2,9 @@
 theme: light-icons
 layout: intro
 image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png
+favicon: ./Kintone/KDP_favicon.png
 selectable: true
 download: true
-favicon: ./Kintone/KDP_favicon.png
 title: First Month as an Engineer at Cybozu
 info: Cybozu's "First Month as an Engineer" Talk with Le Wagon Tokyo
 ---
