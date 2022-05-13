@@ -60,3 +60,4 @@ For the first deployment:
 | Title                                             | Slides Link                                               |
 | ------------------------------------------------- | --------------------------------------------------------- |
 | [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/> |
+| [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/> |
