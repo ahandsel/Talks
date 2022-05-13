@@ -26,5 +26,6 @@ Following are the img files and their corresponding creators on [Unsplash.com](h
 | `tokyo_morning-white-alexander-smagin-f63S1jmvjA8-unsplash.png` | ![f63S1jmvjA8](./public/background/tokyo_morning-white-alexander-smagin-f63S1jmvjA8-unsplash.png) | <https://unsplash.com/photos/f63S1jmvjA8/> |
 | `tokyo_night-louie-martinez-IocJwyqRv3M-unsplash.png`           | ![IocJwyqRv3M](./public/background/tokyo_night-louie-martinez-IocJwyqRv3M-unsplash.png)           | <https://unsplash.com/photos/IocJwyqRv3M/> |
 | `water-caleb-george-Lh6X0gXu7eg-unsplash.png`                   | ![Lh6X0gXu7eg](./public/background/water-caleb-george-Lh6X0gXu7eg-unsplash.png)                   | <https://unsplash.com/photos/Lh6X0gXu7eg/> |
+| `fatty-corgi-Zn5chZcnFRA-unsplash.png`                          | ![Zn5chZcnFRA](./public/background/fatty-corgi-Zn5chZcnFRA-unsplash.png)                          | <https://unsplash.com/photos/Zn5chZcnFRA/> |
 
 ## Thank you for making your works freely available 🙇
