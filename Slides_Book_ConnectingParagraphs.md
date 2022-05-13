@@ -6,8 +6,8 @@ lineNumbers: false
 drawings:
   persist: false
 selectable: true
-download: true
 background: ./background/books-patrick-tomasso-Oaqk7qqNh_c-unsplash.png
+download: true
 title: 2-5 パラグラフを接続する
 info: Slides going over Section 2, Chapter 5 of the 論理が伝わる 世界標準の「書く技術」 (ブルーバックス) Book.
 ---
