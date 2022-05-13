@@ -23,7 +23,7 @@ Paragraph を せつぞく する
 
 ---
 layout: image-right
-image: ./Book_ConnectingParagraphs_JP/Summary.png
+image: ./Book_ConnectingParagraphs/Summary.png
 ---
 
 # キーポイント
@@ -56,7 +56,7 @@ Paragraph は Logic の こうせい でつながります
 
 ---
 layout: image-right
-image: ./Book_ConnectingParagraphs_JP/ABC.png
+image: ./Book_ConnectingParagraphs/ABC.png
 ---
 
 # 展開型 {てんかいがた}
@@ -90,7 +90,7 @@ Concept + A, B, C Method
 
 ---
 layout: image-right
-image: ./Book_ConnectingParagraphs_JP/AD.png
+image: ./Book_ConnectingParagraphs/AD.png
 ---
 
 # 引継型 {ひきつぎがた}
@@ -146,7 +146,7 @@ layout: center
 
 ## 引継型 {ひきつぎがた} / Inheritance / A ⇢ D
 
-![A->D 引継型 {ひきつぎがた} / Inheritance](/Book_ConnectingParagraphs_JP/AD_Inheritance.png)
+![A->D 引継型 {ひきつぎがた} / Inheritance](/Book_ConnectingParagraphs/AD_Inheritance.png)
 
 <!--
 引継型 {ひきつぎがた} / Inheritance
@@ -167,7 +167,7 @@ layout: center
 
 ## 展開型 {てんかいがた} / Expansion / Concept + A,B,C
 
-![A,B,C 展開型 {てんかいがた} / Expansion](/Book_ConnectingParagraphs_JP/ABC_Expansion.png)
+![A,B,C 展開型 {てんかいがた} / Expansion](/Book_ConnectingParagraphs/ABC_Expansion.png)
 
 <!--
 展開型 {てんかいがた} / Expansion
