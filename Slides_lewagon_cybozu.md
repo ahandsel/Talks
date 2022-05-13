@@ -181,8 +181,8 @@ GitHub  -  [ahandsel](https://github.com/ahandsel/)
 
 
 ---
-layout: intro
-image: ./background/Sakura.png
+layout: image
+image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
 ---
 
 <div class="mb-4 absolute top-20 right-10" style=" position: absolute; text-align: right;">
@@ -190,14 +190,14 @@ image: ./background/Sakura.png
     Let's Talk <i class="light-icon-messages"></i>
   </span>
   <div><br></div>
-  <div class="text-3xl text-white text-opacity-60" style="font-weight:600;" >
+  <div class="text-3xl text-black text-opacity-60" style="font-weight:600;" >
   Got any questions?
   </div>
 </div>
 
-<div class="absolute bottom-5 left-12">
-  <span @click="next" class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
-    Press Space for Joining Cybozu page  <light-icon icon="arrow-narrow-right" size="24px"/>
+<div class="absolute top-5 left-12">
+  <span @click="$slidev.nav.next" class="p-1 rounded cursor-pointer text-black hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
+    Press Space for Joining Cybozu Section  <light-icon icon="arrow-narrow-right" size="24px"/>
   </span>
 </div>
 
