@@ -62,3 +62,4 @@ For the first deployment:
 | [lewagon_cybozu](lewagon_cybozu.md)                             | <https://ahandsel.github.io/Talks/lewagon_cybozu/>               |
 | [Book_ConnectingParagraphs_JP](Book_ConnectingParagraphs_JP.md) | <https://ahandsel.github.io/Talks/Book_ConnectingParagraphs_JP/> |
 | Slides_lewagon_cybozu | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/> |
+| [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/> |
