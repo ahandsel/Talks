@@ -57,9 +57,8 @@ For the first deployment:
 
 ## Past talks
 
-| Title                                             | Slides Link                                               |
-| ------------------------------------------------- | --------------------------------------------------------- |
-| [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/> |
-| [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md) | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/> |
-| [Slides_Kintone_Intro_Kids](Slides_Kintone_Intro_Kids.md) | <https://ahandsel.github.io/Talks/Slides_Kintone_Intro_Kids/> |
+| Title                                                                   | Slides Link                                                          |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md)                       | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/>            |
+| [Slides_Kintone_Intro_Kids](Slides_Kintone_Intro_Kids.md)               | <https://ahandsel.github.io/Talks/Slides_Kintone_Intro_Kids/>        |
 | [Slides_Book_ConnectingParagraphs](Slides_Book_ConnectingParagraphs.md) | <https://ahandsel.github.io/Talks/Slides_Book_ConnectingParagraphs/> |
