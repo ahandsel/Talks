@@ -3,7 +3,7 @@ theme: light-icons
 layout: intro
 favicon: ./Kintone/KDP_favicon.png
 image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png
-selectable: true
+download: true
 ---
 
 <div class="mb-4 absolute top-10 left-35" style="text-align: right;">
