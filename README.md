@@ -28,7 +28,7 @@ Deploys are dispatched by commit messages:
 ```bash
 git add <slide-name>.md
 
-git commit -m "deploy: <slide-name>"
+git commit -m "Upload: <slide-name>"
 
 git push
 ```
