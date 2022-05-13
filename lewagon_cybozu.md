@@ -1,7 +1,7 @@
 ---
 theme: light-icons
 layout: intro
-image: ./background/Tokyo_Morning.png
+image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png	
 selectable: true
 download: true
 title: First Month as an Engineer at Cybozu
@@ -203,7 +203,7 @@ image: ./background/Sakura.png
 
 ---
 layout: intro
-image: ./background/Tokyo_Night.png
+image: ./background/tokyo_morning-blue-ryo-yoshitake-cnIK3nLZ0Sg-unsplash.png
 ---
 
 <div class="mb-4 absolute top-20 left-12" style=" position: absolute; right:0; text-align: right;">

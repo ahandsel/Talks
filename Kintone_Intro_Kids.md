@@ -2,7 +2,7 @@
 theme: light-icons
 layout: intro
 favicon: ./Kintone/KDP_favicon.png
-image: ./background/Tokyo_Morning.png
+image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png	
 selectable: true
 ---
 
