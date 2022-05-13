@@ -4,9 +4,9 @@ layout: intro
 image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png
 selectable: true
 download: true
+favicon: ./Kintone/KDP_favicon.png
 title: First Month as an Engineer at Cybozu
 info: Cybozu's "First Month as an Engineer" Talk with Le Wagon Tokyo
-favicon: ./Kintone/KDP_favicon.png
 ---
 
 <div class="mb-4 absolute top-20 left-12" style="text-align: right;">
