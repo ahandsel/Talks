@@ -7,7 +7,7 @@ drawings:
   persist: false
 selectable: true
 download: true
-background: ./background/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpeg
+background: ./background/books-patrick-tomasso-Oaqk7qqNh_c-unsplash.png
 title: 2-5 パラグラフを接続する
 info: Slides going over Section 2, Chapter 5 of the 論理が伝わる 世界標準の「書く技術」 (ブルーバックス) Book.
 ---
@@ -129,7 +129,7 @@ A -> D Method
 
 ---
 layout: cover
-background: ./background/unsplash_water.jpeg
+background: ./background/water-caleb-george-Lh6X0gXu7eg-unsplash.png
 ---
 
 # お時間をいただき
@@ -154,7 +154,6 @@ layout: center
 各パラグラフの要約文を引継型でつなぎながら作成しましょう。
 
 なぜなら、この文章は、各論のパラグラフ4つが現状 - 問題 - 手法 - 効果と縦につながっているからです。
-
 
 そこで、次のイメージで要約文を作ればぼいいでしょう。
 -->
