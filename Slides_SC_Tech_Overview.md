@@ -3,7 +3,7 @@ theme: light-icons
 layout: intro
 image: ./background/green_forest_2-andrew-coelho-aL7SA1ASVdQ-unsplash.png
 download: true
-exportFilename: 'Slides_SC_Tech_Overview.pdf'
+exportFilename: Slides_SC_Tech_Overview.pdf
 ---
 
 <!-- markdownlint-disable -->
@@ -369,6 +369,7 @@ echo "Hello, $PERSON"
 ```
 
 ### Set Permissions / 権限を設定する
+
 ```shell
 chmod +x example.sh
 ```
@@ -427,7 +428,8 @@ image: ./background/red_woods-sophia-simoes-HKVM_34Ykac-unsplash.png
 ```
 
 ### Matches
-```regex
+
+```text
 akintone
 kinton
 kintone
@@ -768,7 +770,6 @@ image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
   質問ありますか？
   </div>
 </div>
-
 
 
 ---
