@@ -2,8 +2,11 @@
 theme: light-icons
 layout: intro
 image: ./background/green_forest_2-andrew-coelho-aL7SA1ASVdQ-unsplash.png
+favicon: ./Kintone/KDP_favicon.png
+selectable: true
 download: true
 exportFilename: Slides_SC_Tech_Overview.pdf
+title: 2022 SC Training - SC Tech Overview - Bilingual Slides
 ---
 
 <!-- markdownlint-disable -->
@@ -158,6 +161,8 @@ layout: my-two-columns
 * Windows, Linux, MacOS
 * Android, iOS
 
+<br>
+
 ### OSの役割
 * 様々なソフトウェアを動かすための土台
 * ハードウェアとソフトウェアを仲介してくれる
@@ -169,6 +174,8 @@ The Operating System (OS) is the core software that runs the device
 
 ### Examples of OS:
 * Windows, Linux, MacOS, Android, iOS
+
+<br>
 
 ### The role of the OS:
 * Manges other software
@@ -243,6 +250,8 @@ and share resources with each other
 ### Network lecture will cover
 * Mechanism that connects the devices
 
+<br>
+
 ### How will this be used?
 * .com migration business
 * Building on-premises Garoon
@@ -275,6 +284,8 @@ layout: my-two-columns
 A collection of information organized for easy search and retrial
 * Database : A **box** filled with various data
 * Managed using database language like SQL
+
+<br>
 
 ### In Garoon's Case
 Schedules, messages, & other information are stored in a database
@@ -332,6 +343,8 @@ layout: my-two-columns
 ### 講義で学べること
 * シェルスクリプトの書き方
 
+<br>
+
 ### SC本部で今後どう役立つ？
 * 自動化作業(性能検証, Garoon構築の自動化)
 
@@ -344,6 +357,8 @@ A set of instructions for a computer to follow
 
 ### Shell script lecture will cover
 * Writing a shell script
+
+<br>
 
 ### How will this be used?
 * Automation work: performance testing, automate building a Garoon instance
@@ -394,6 +409,8 @@ layout: my-two-columns
 ### 講義で学べること
 * 正規表現の書き方
 
+<br>
+
 ### SC本部で今後どう役立つ？
 * JavaScriptなどのコーディング
 * テキストをまとめて変更する
@@ -406,6 +423,8 @@ Build complex search queries easily!
 
 ### RegEx lecture will cover
 * How to write a regular expression
+
+<br>
 
 ### How will this be used?
 * Coding _such as JavaScript_
@@ -586,7 +605,9 @@ layout: my-two-columns
 ::left::
 
 ### 講義で学べること
-基本的なHTML / CSSの書き方
+* 基本的なHTML / CSSの書き方
+
+<br>
 
 ### SCで今後どう役立つ？
 * Webデザイン系
@@ -597,6 +618,8 @@ layout: my-two-columns
 
 ### HTML & CSS lecture will cover
 * How to write basic HTML & CSS
+
+<br>
 
 ### How will this be used?
 * Frontend web development:
@@ -646,8 +669,11 @@ Webページに動きをつけるための
 
 kintoneカスタマイズも JS で実装します
 
+<br>
+
 ### API
-ソフトウェアの機能を、外部から使うために用意された窓口  
+ソフトウェアの機能を,  
+外部から使うために用意された窓口
 
 例) kintoneと他システムと連携したい..
 
@@ -657,6 +683,8 @@ kintoneカスタマイズも JS で実装します
 A programming language for moving web pages
 
 Kintone customization is written in JS
+
+<br>
 
 ### API
 A window prepared for using software functions from the outside
@@ -678,6 +706,8 @@ layout: my-two-columns
 * JavaScriptの基本的な文法
 * 外部サービスAPIの使い方
 
+<br>
+
 ### SCで今後どう役立つ？
 * kintoneカスタマイズ、プラグイン開発
 * 外部サービス連携
@@ -688,6 +718,8 @@ layout: my-two-columns
 ### JavaScript & CSS lecture will cover
 * Writing JavaScript
 * How to use the external service API
+
+<br>
 
 ### How will this be used?
 * Kintone customization, plugin development
@@ -727,6 +759,8 @@ layout: my-two-columns
 * Git, GitHubとは？
 * Gitを使ったバージョン管理の仕方
 
+<br>
+
 ### SCで今後どう役立つ？
 * JavaScriptなどのソースコードの管理
 * チーム開発
@@ -742,6 +776,8 @@ Web service that can host source code
 ### Git & GitHub lecture will cover
 * What are Git and GitHub?
 * How to manage versions using Git
+
+<br>
 
 ### How will this be used?
 * Manage source code such as JavaScript
