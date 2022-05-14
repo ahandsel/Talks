@@ -366,7 +366,7 @@ A set of instructions for a computer to follow
 
 ---
 layout: dynamic-image
-image: ./background/cannon-kristaps-ungurs-j0_bhuZTYH0-unsplash.png
+image: ./background/jordy-meow-OQbppjf5ouc-unsplash.png
 ---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
@@ -375,7 +375,7 @@ image: ./background/cannon-kristaps-ungurs-j0_bhuZTYH0-unsplash.png
 
 ### example.sh
 
-```shell
+```text
 #!/bin/sh
 
 echo "What is your name?"
@@ -385,7 +385,7 @@ echo "Hello, $PERSON"
 
 ### Set Permissions / 権限を設定する
 
-```shell
+```text
 chmod +x example.sh
 ```
 
