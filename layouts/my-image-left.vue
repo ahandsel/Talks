@@ -7,8 +7,7 @@
 
     <!-- Image -->
     <div :class="[equal ? 'col-span-6' : 'col-span-4', 'my-auto h-full']">
-      <!-- <div class="my-auto h-full" :style="{ ...style }"></div> -->
-      <div class="my-auto h-full"></div>
+      <div class="my-auto h-full" :style="{ ...style }"></div>
     </div>
     <!-- Layout -->
     <div :class="[
