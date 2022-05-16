@@ -1,35 +1,32 @@
+<!-- my-image-left -->
 <template>
   <div class="relative h-full intro grid grid-cols-12">
     <div class="absolute h-full w-full" style="z-index: -10">
-      <BubbleFrame v-if="!hideFrame"/>
+      <BubbleFrame v-if="!hideFrame" />
     </div>
-    <div
-      v-if="image"
-      :class="[equal ? 'col-span-6' : 'col-span-4', 'my-auto h-full']"
-    >
-      <img
-        :src="image"
-        class="my-auto mx-auto h-auto"
-        :style="{
-          maxHeight: '100%',
-        }"
-      />
+
+    <!-- Image -->
+    <div :class="[equal ? 'col-span-6' : 'col-span-4', 'my-auto h-full']">
+      <!-- <div class="my-auto h-full" :style="{ ...style }"></div> -->
+      <div class="my-auto h-full"></div>
     </div>
-    <div
-      :class="[
-        'slidev-layout my-auto',
-        image ? 'col-span-6' : 'col-span-12',
-        equal ? 'col-span-6' : 'col-span-8',
-      ]"
-    >
-      <slot />
+    <!-- Layout -->
+    <div :class="[
+      'slidev-layout my-auto',
+      image ? 'col-span-6' : 'col-span-12',
+      equal ? 'col-span-6' : 'col-span-8',
+    ]">
+      <slot /> <!-- Grab Markdown SliDev content -->
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
 // Dependencies
-import { defineProps } from "vue";
+import { computed, defineProps } from "vue";
+
+// Utils
+import { handleBackground } from "../utils/index";
 
 const props = defineProps({
   image: {
@@ -46,4 +43,8 @@ const props = defineProps({
     default: false,
   }
 });
+
+const style = computed(() =>
+  handleBackground(props.image)
+);
 </script>
