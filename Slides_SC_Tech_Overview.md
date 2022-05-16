@@ -365,7 +365,7 @@ A set of instructions for a computer to follow
 
 
 ---
-layout: my-image-left
+layout: image-left-bar
 image: ./background/jordy-meow-OQbppjf5ouc-unsplash.png
 ---
 
@@ -433,7 +433,7 @@ Build complex search queries easily!
 
 
 ---
-layout: my-image-left
+layout: image-left-bar
 image: ./background/ahandsel-5847.png
 ---
 
@@ -629,7 +629,7 @@ layout: my-two-columns
 
 
 ---
-layout: my-image-left
+layout: image-left-bar
 image: ./background/water-caleb-george-Lh6X0gXu7eg-unsplash.png
 ---
 
