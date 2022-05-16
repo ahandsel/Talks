@@ -8,46 +8,63 @@
 <!-- markdownlint-disable MD007 -->
 * [Running for development](#running-for-development)
 * [Deploy in Github Pages](#deploy-in-github-pages)
+  * [First Time](#first-time)
+  * [Format Slide Deck](#format-slide-deck)
+  * [Upload Slidev via GitHub Actions](#upload-slidev-via-github-actions)
 * [Commands](#commands)
 * [Resources on Creating Slides with Slidev](#resources-on-creating-slides-with-slidev)
 * [Additional Notes](#additional-notes)
-* [Past talks](#past-talks)
+* [Past Talks](#past-talks)
 <!-- markdownlint-enable MD007 -->
 
 ## Running for development
 
 ```shell
 npm install
-npm run dev -- slides/my-slide.md
+npm run dev Slides_my_slides.md
 ```
 
 Visit: <http://localhost:3030>
 
 ## Deploy in Github Pages
 
-Deploys are dispatched by commit messages:
-
-```bash
-git add <slide-name>.md
-
-git commit -m "Upload: <slide-name>"
-
-git push
-```
+### First Time
 
 For the first deployment:
 
   1. GitHub Repo > Settings > GitHub Pages
   2. Set **Source** to `gh-pages` branch
 
+### Format Slide Deck
+
+```shell
+npm run format Slides_my_slides.md
+
+Example:
+npm run format Slides_Book_ConnectingParagraphs.md
+```
+
+### Upload Slidev via GitHub Actions
+Deploys are dispatched by commit messages:
+
+```bash
+git add SLIDES_NAME.md
+
+git commit -m "Upload: SLIDES_NAME"
+
+git push
+```
+
+
+
 ## Commands
 
 | Commands                         | Purpose                  |
 | -------------------------------- | ------------------------ |
-| `npm run format <slide-name>.md` | Format the markdown file |
-| `npm run build <slide-name>.md`  | Build for production SPA |
-| `npm run dev <slide-name>.md`    | Start dev server         |
-| `npm run export <slide-name>.md` | Export slides to pdf     |
+| `npm run format SLIDES_NAME.md` | Format the markdown file |
+| `npm run build SLIDES_NAME.md`  | Build for production SPA |
+| `npm run dev SLIDES_NAME.md`    | Start dev server         |
+| `npm run export SLIDES_NAME.md` | Export slides to pdf     |
 
 ## Resources on Creating Slides with Slidev
 
@@ -61,10 +78,10 @@ For the first deployment:
 
 Image Sizes
 
-* Slide backgrounds: 1600 px by 900 px
-* Vertical thin slots: 400 px by 900 px
+  * Slide backgrounds: 1600 px by 900 px
+  * Vertical thin slots: 400 px by 900 px
 
-## Past talks
+## Past Talks
 
 | Title                                                                   | Slides Link                                                          | Status    |
 | ----------------------------------------------------------------------- | -------------------------------------------------------------------- | --------- |
