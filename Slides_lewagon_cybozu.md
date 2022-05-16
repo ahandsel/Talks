@@ -1,5 +1,5 @@
 ---
-theme: light-icons
+theme: /
 layout: intro
 image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png
 favicon: ./Kintone/KDP_favicon.png
@@ -41,7 +41,7 @@ Finally, we will go through our first month experiences & answer your questions.
 -->
 
 ---
-layout: image-left
+layout: image-right
 image: ./lewagon_cybozu_graphics/seb_design.png
 ---
 
