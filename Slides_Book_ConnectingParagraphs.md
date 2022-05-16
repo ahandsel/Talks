@@ -175,3 +175,4 @@ layout: center
 
 総論で A、B、 C とキーワードを纂列した後、各諸のパラグラフの要約文で、A、B、 C を説明します。
 -->
+<!-- Slide's Status: Ready for Upload -->
