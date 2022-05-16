@@ -365,7 +365,7 @@ A set of instructions for a computer to follow
 
 
 ---
-layout: dynamic-image
+layout: my-image-left
 image: ./background/jordy-meow-OQbppjf5ouc-unsplash.png
 ---
 
@@ -392,6 +392,7 @@ chmod +x example.sh
 
 ---
 layout: my-two-columns
+hideFrame: false
 ---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
@@ -432,8 +433,8 @@ Build complex search queries easily!
 
 
 ---
-layout: dynamic-image
-image: ./background/red_woods-sophia-simoes-HKVM_34Ykac-unsplash.png
+layout: my-image-left
+image: ./background/ahandsel-5847.png
 ---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
@@ -628,7 +629,7 @@ layout: my-two-columns
 
 
 ---
-layout: dynamic-image
+layout: my-image-left
 image: ./background/water-caleb-george-Lh6X0gXu7eg-unsplash.png
 ---
 
