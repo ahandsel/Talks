@@ -74,3 +74,4 @@ Image Sizes
 | [Slides_SC_Tech_Overview](Slides_SC_Tech_Overview.md)                   | <https://ahandsel.github.io/Talks/Slides_SC_Tech_Overview/>          |
 | [Slides_SC_Tech_Overview](Slides_SC_Tech_Overview.md) | <https://ahandsel.github.io/Talks/Slides_SC_Tech_Overview/> |
 | [Slides_SC_Tech_Overview](Slides_SC_Tech_Overview.md) | <https://ahandsel.github.io/Talks/Slides_SC_Tech_Overview/> |
+| [Slides_SC_Tech_Overview](Slides_SC_Tech_Overview.md) | <https://ahandsel.github.io/Talks/Slides_SC_Tech_Overview/> |
