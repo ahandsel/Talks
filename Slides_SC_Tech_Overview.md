@@ -1,5 +1,5 @@
 ---
-theme: light-icons
+theme: /
 layout: intro
 image: ./background/green_forest_2-andrew-coelho-aL7SA1ASVdQ-unsplash.png
 favicon: ./Kintone/KDP_favicon.png
