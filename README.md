@@ -2,6 +2,7 @@
 
 * Powered by [Sli.dev](https://sli.dev) + Github Actions + Github Pages
 * Thanks to [fguisso](https://github.com/fguisso/talks) for building the repo setup
+* Theme used is my iteration on [lightvue/slidev-theme-light-icons](https://github.com/lightvue/slidev-theme-light-icons)
 
 ## Outline <!-- omit in toc -->
 <!-- markdownlint-disable MD007 -->
@@ -9,6 +10,7 @@
 * [Deploy in Github Pages](#deploy-in-github-pages)
 * [Commands](#commands)
 * [Resources on Creating Slides with Slidev](#resources-on-creating-slides-with-slidev)
+* [Additional Notes](#additional-notes)
 * [Past talks](#past-talks)
 <!-- markdownlint-enable MD007 -->
 
@@ -54,6 +56,13 @@ For the first deployment:
 * [antfu/talks Repo](https://github.com/antfu/talks)
 * [ahandsel/debugging_log/SliDev_LightVue](https://github.com/ahandsel/debugging_log/tree/master/SliDev_LightVue)
 * [npx slidev --help](https://github.com/ahandsel/debugging_log/blob/master/SliDev_LightVue/SliDev_Basic/SliDev_Help.md#npx-slidev---help)
+
+## Additional Notes
+
+Image Sizes
+
+* Slide backgrounds: 1600 px by 900 px
+* Vertical thin slots: 400 px by 900 px
 
 ## Past talks
 
