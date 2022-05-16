@@ -1,5 +1,5 @@
 ---
-theme: light-icons
+theme: /
 layout: intro
 favicon: ./Kintone/KDP_favicon.png
 image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png
@@ -37,7 +37,7 @@ download: true
   </div>
   <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
     <a
-      href="https://github.com/ahandsel/Talks"
+      href="https://github.com/ahandsel/Talks/blob/main/Slides_Kintone_Intro_Kids.md"
       target="_blank"
       alt="GitHub"
       class="!hover:text-white">
