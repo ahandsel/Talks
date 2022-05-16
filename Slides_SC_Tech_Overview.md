@@ -375,7 +375,7 @@ image: ./background/jordy-meow-OQbppjf5ouc-unsplash.png
 
 ### example.sh
 
-```text
+```shell
 #!/bin/sh
 
 echo "What is your name?"
@@ -385,7 +385,7 @@ echo "Hello, $PERSON"
 
 ### Set Permissions / 権限を設定する
 
-```text
+```bash
 chmod +x example.sh
 ```
 
