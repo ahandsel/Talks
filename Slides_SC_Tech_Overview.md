@@ -809,27 +809,24 @@ image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
 
 
 ---
-layout: intro
+layout: image
 image: ./background/thomas-tucker-KraXdvWzKNw-unsplash.png
 ---
 
-<div class="mb-4 absolute top-20 right-12" style="text-align: right;">
-  <div>
-    <span class="text-6xl text-primary-lighter text-opacity-80" style="font-weight:500;text-align: right;">
-      Thank you for your time
-    </span>
-  </div>
-  <dir style="line-height: 0.1;"> <br> </dir>
-  <div class="text-6xl text-white text-opacity-60" style="font-weight:600;text-align: right;line-height: 1.3;">
-    お時間をいただき
-    <br>
-    ありがとうございました
+<div class="mb-4 absolute top-20 right-12 rounded bg-black bg-opacity-10" style="position: absolute; text-align: right;">
+  <span class="text-6xl text-primary-lightest" style="font-weight:500;">
+    Thank you for your time <i class="light-icon-atom"></i>
+  </span>
+  <div><br></div>
+  <div class="text-4xl text-white" style="font-weight:600;" >
+    お時間をいただきありがとうございました
   </div>
 </div>
 
 <div class="absolute bottom-5 left-12">
-  <span @click="next"
-    class="text-5xl p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
-    fin  &nbsp;  <i class="light-icon-anchor" size="24px" />
-  </span>
+  <a href="https://sli.dev/">
+    <span class="text-5xl p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
+      <i class="light-icon-anchor" size="24px" />
+    </span>
+  </a>
 </div>
