@@ -75,3 +75,4 @@ Image Sizes
 | [Slides_SC_Tech_Overview](Slides_SC_Tech_Overview.md) | <https://ahandsel.github.io/Talks/Slides_SC_Tech_Overview/> |
 | [Slides_SC_Tech_Overview](Slides_SC_Tech_Overview.md) | <https://ahandsel.github.io/Talks/Slides_SC_Tech_Overview/> |
 | [Slides_SC_Tech_Overview](Slides_SC_Tech_Overview.md) | <https://ahandsel.github.io/Talks/Slides_SC_Tech_Overview/> |
+| [Slides_Kintone_Intro_Kids](Slides_Kintone_Intro_Kids.md) | <https://ahandsel.github.io/Talks/Slides_Kintone_Intro_Kids/> |
