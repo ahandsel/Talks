@@ -744,7 +744,7 @@ layout: my-two-columns
 ---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Git & GitHub
+  Git & GitHub <light-icon icon="brand-github" size="24px"/>
 </div>
 
 ::left::
@@ -825,9 +825,8 @@ image: ./background/thomas-tucker-KraXdvWzKNw-unsplash.png
 </div>
 
 <div class="absolute bottom-5 left-12">
-  <a href="https://sli.dev/">
-    <span class="text-5xl p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
-      <i class="light-icon-anchor" size="24px" />
-    </span>
-  </a>
+  <div class="text-5xl p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
+      <a href="https://sli.dev/"><i class="light-icon-anchor" size="24px" /></a>&nbsp;
+      <a href="https://github.com/ahandsel/"><i class="light-icon-brand-github" size="24px" /></a>
+  </div>
 </div>
