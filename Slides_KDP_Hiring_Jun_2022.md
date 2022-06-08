@@ -23,11 +23,11 @@ title: Join Kintone Developer Relations Team!
       <br>
       <br>
       📣 Global Developer Advocate
-      &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <br>
       <br>
       ✏️ Technical Content Creator
-      &nbsp; &nbsp; &nbsp; &nbsp;
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     </p>
   </div>
 </div>
