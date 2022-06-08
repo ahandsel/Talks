@@ -55,6 +55,7 @@ Get developers get excited to create with Kintone!
 - Sponsor & mentor in hackathons!
 - Details: [bit.ly/cybozu_dev_adv](https://bit.ly/cybozu_dev_adv)
 
+
 ---
 layout: image-right-bar
 image: ./KDP_Hiring_Jun_2022/technical_content_creator.png
@@ -76,6 +77,7 @@ Create vital content for global engineers to use & build on Kintone!
 - Optimize our [kintone\.dev](https://kintone.dev/) site
 - Manage our [developer forum](https://forum.kintone.dev/)
 - Connect with engineers around the world!
+
 
 ---
 layout: image-left
