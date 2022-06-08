@@ -123,10 +123,15 @@ sizing: 50%
 
 <br>
 
+### Meety
 Schedule a quick chat with William on Meety:  
 → [meety.net/matches/AuDoPgMsFPlM](https://meety.net/matches/AuDoPgMsFPlM)
 
 William established the Kintone's Global Developer Advocate team and is passionate about VR!
+
+<br>
+
+<img src="/Kintone/William_Profile-100.png" />
 
 
 ---
