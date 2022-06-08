@@ -1,14 +1,10 @@
-<!-- my-image-left -->
+<!-- my-image-right -->
 <template>
   <div class="relative h-full intro grid grid-cols-12">
     <div class="absolute h-full w-full" style="z-index: -10">
       <BubbleFrame v-if="!hideFrame" />
     </div>
 
-    <!-- Image -->
-    <div :class="[equal ? 'col-span-6' : 'col-span-4', 'my-auto h-full']">
-      <div class="my-auto h-full" :style="{ ...style }"></div>
-    </div>
     <!-- Layout -->
     <div :class="[
       'slidev-layout my-auto',
@@ -17,6 +13,15 @@
     ]">
       <slot /> <!-- Grab Markdown SliDev content -->
     </div>
+
+    <!-- Image -->
+    <div :class="[
+      equal ? 'col-span-6' : 'col-span-4',
+      'my-auto h-full',
+    ]">
+      <img :src="image" class="my-auto mx-auto w-auto" />
+    </div>
+
   </div>
 </template>
 
