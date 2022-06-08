@@ -15,7 +15,7 @@
       'my-auto h-full flex justify-center items-center',
     ]">
       <img :src="image" class="my-auto mx-auto w-auto" :style="{
-        maxHeight: '70%',
+        maxHeight: sizing,
       }" />
     </div>
   </div>
@@ -26,6 +26,10 @@
 import { defineProps } from "vue";
 
 const props = defineProps({
+  sizing: {
+    type: String,
+    required: false,
+  },
   image: {
     type: String,
     required: false,
