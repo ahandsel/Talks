@@ -56,11 +56,10 @@ git push
 ```
 
 
-
 ## Commands
 
-| Commands                         | Purpose                  |
-| -------------------------------- | ------------------------ |
+| Commands                        | Purpose                  |
+| ------------------------------- | ------------------------ |
 | `npm run format SLIDES_NAME.md` | Format the markdown file |
 | `npm run build SLIDES_NAME.md`  | Build for production SPA |
 | `npm run dev SLIDES_NAME.md`    | Start dev server         |
@@ -78,8 +77,8 @@ git push
 
 Image Sizes
 
-  * Slide backgrounds: 1600 px by 900 px
-  * Vertical thin slots: 400 px by 900 px
+* Slide backgrounds: 1600 px by 900 px
+* Vertical thin slots: 400 px by 900 px
 
 ## Past Talks
 
@@ -88,4 +87,4 @@ Image Sizes
 | [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md)                       | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/>            | Done ✅    |
 | [Slides_Kintone_Intro_Kids](Slides_Kintone_Intro_Kids.md)               | <https://ahandsel.github.io/Talks/Slides_Kintone_Intro_Kids/>        | Pending ✏️ |
 | [Slides_Book_ConnectingParagraphs](Slides_Book_ConnectingParagraphs.md) | <https://ahandsel.github.io/Talks/Slides_Book_ConnectingParagraphs/> | Done ✅    |
-| [Slides_KDP_Hiring_Jun_2022](Slides_KDP_Hiring_Jun_2022.md) | <https://ahandsel.github.io/Talks/Slides_KDP_Hiring_Jun_2022/> |
+| [Slides_KDP_Hiring_Jun_2022](Slides_KDP_Hiring_Jun_2022.md)             | <https://ahandsel.github.io/Talks/Slides_KDP_Hiring_Jun_2022/>       | Done ✅    |
