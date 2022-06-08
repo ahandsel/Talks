@@ -1,31 +1,22 @@
 <template>
   <div class="relative h-full intro grid grid-cols-12">
     <div class="absolute h-full w-full" style="z-index: -10">
-      <BubbleFrame v-if="!hideFrame"/>
+      <BubbleFrame v-if="!hideFrame" />
     </div>
-    <div
-      :class="[
-        'slidev-layout my-auto',
-        image ? 'col-span-6' : 'col-span-12',
-        equal ? 'col-span-6' : 'col-span-8',
-      ]"
-    >
+    <div :class="[
+      'slidev-layout my-auto',
+      image ? 'col-span-6' : 'col-span-12',
+      equal ? 'col-span-6' : 'col-span-8',
+    ]">
       <slot />
     </div>
-    <div
-      v-if="image"
-      :class="[
-        equal ? 'col-span-6' : 'col-span-4',
-        'my-auto h-full flex justify-center items-center',
-      ]"
-    >
-      <img
-        :src="image"
-        class="my-auto mx-auto w-auto"
-        :style="{
-          maxHeight: '70%',
-        }"
-      />
+    <div v-if="image" :class="[
+      equal ? 'col-span-6' : 'col-span-4',
+      'my-auto h-full flex justify-center items-center',
+    ]">
+      <img :src="image" class="my-auto mx-auto w-auto" :style="{
+        maxHeight: '70%',
+      }" />
     </div>
   </div>
 </template>
