@@ -2,10 +2,12 @@
 
 * Powered by [Sli.dev](https://sli.dev) + Github Actions + Github Pages
 * Thanks to [fguisso](https://github.com/fguisso/talks) for building the repo setup
-* Theme used is my iteration on [lightvue/slidev-theme-light-icons](https://github.com/lightvue/slidev-theme-light-icons)
+* Theme used is my iteration on:
+  * [lightvue/slidev-theme-light-icons](https://github.com/lightvue/slidev-theme-light-icons)
+  * [Dawntraoz/slidev-theme-unicorn](https://github.com/Dawntraoz/slidev-theme-unicorn)
 
 ## Outline <!-- omit in toc -->
-<!-- markdownlint-disable MD007 -->
+
 * [Running for development](#running-for-development)
 * [Deploy in Github Pages](#deploy-in-github-pages)
   * [First Time](#first-time)
@@ -15,7 +17,6 @@
 * [Resources on Creating Slides with Slidev](#resources-on-creating-slides-with-slidev)
 * [Additional Notes](#additional-notes)
 * [Past Talks](#past-talks)
-<!-- markdownlint-enable MD007 -->
 
 ## Running for development
 
