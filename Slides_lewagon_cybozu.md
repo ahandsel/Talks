@@ -187,7 +187,7 @@ image: ./background/fatty-corgi-Zn5chZcnFRA-unsplash.png
 
 <div class="mb-4 absolute top-20 right-10" style=" position: absolute; text-align: right;">
   <span class="text-6xl text-primary-lighter text-opacity-80" style="font-weight:500;">
-    Let's Talk <i class="light-icon-messages"></i>
+    Let's Talk <light-icon icon="messages"/>
   </span>
   <div><br></div>
   <div class="text-3xl text-black text-opacity-60" style="font-weight:600;" >
@@ -209,7 +209,7 @@ image: ./background/tokyo_morning-blue-ryo-yoshitake-cnIK3nLZ0Sg-unsplash.png
 
 <div class="mb-4 absolute top-20 left-12" style=" position: absolute; right:0; text-align: right;">
   <span class="text-6xl text-primary-lighter text-opacity-80" style="font-weight:500;" >
-    Joining Cybozu <i class="light-icon-user-plus"></i> &nbsp;
+    Joining Cybozu <light-icon icon="user-plus"></i> &/>
   </span>
   <div><br><br></div>
   <div>
@@ -233,7 +233,7 @@ left: false
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
-      Global Developer Advocate Role <i class="light-icon-pencil"></i>
+      Global Developer Advocate Role <light-icon icon="pencil"/>
     </a>
   </div>
   <div class="text-primary dark:text-primary pb-2 pt-4" style="line-height: 1.6;">
@@ -263,7 +263,7 @@ image: ./lewagon_cybozu_graphics/kdp_collage.png
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <div><br></div>
     <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
-      Global Developer Advocate Role <i class="light-icon-pencil"></i>
+      Global Developer Advocate Role <light-icon icon="pencil"/>
     </a>
     <div><br></div>
   </div>
@@ -278,7 +278,7 @@ left: false
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <a href="https://cybozu.co.jp/company/job/recruitment/list/global_developer_advocate.html">
-      Global Developer Advocate Role <i class="light-icon-pencil"></i>
+      Global Developer Advocate Role <light-icon icon="pencil"/>
     </a>
   </div>
   <!-- <div class="text-primary dark:text-primary pb-2 pt-4" style="line-height: 1.6;">
@@ -315,13 +315,13 @@ layout: my-two-columns
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <a href="https://cybozu.co.jp/company/job/recruitment/newgrad/systemconsulting.html">
-      Other Engineering Positions <i class="light-icon-sitemap"></i>
+      Other Engineering Positions <light-icon icon="sitemap"/>
     </a>
   </div>
 
 ::left::
 
-## Technical Engineer <i class="light-icon-tool"></i>
+## Technical Engineer <light-icon icon="tool"/>
 ### Technical Engineering Division
 
 This division provides technical support to our partner firms with everything from servers, networks, databases, backups, and integrations.
@@ -330,7 +330,7 @@ Technical Engineering is a great role for those who want to work with backend te
 
 ::right::
 
-## Developer Tools Engineer <i class="light-icon-tools"></i>
+## Developer Tools Engineer <light-icon icon="tools"/>
 ### System Development Division
 
 This division creates tools that external developers use to build integrations and customizations on Cybozu's products.
@@ -347,7 +347,7 @@ left: false
 ---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Want to learn more? <i class="light-icon-bolt"></i>
+  Want to learn more? <light-icon icon="bolt"/>
 </div>
 
 <br>
@@ -372,7 +372,7 @@ Check out this Japanese article to learn more about Cybozu's System Consulting D
 ---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Want to learn more? <i class="light-icon-bolt"></i>
+  Want to learn more? <light-icon icon="bolt"/>
 </div>
 
 Check out the following websites to learn more about what Cybozu is cooking up!  
