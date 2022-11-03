@@ -209,7 +209,7 @@ image: ./background/tokyo_morning-blue-ryo-yoshitake-cnIK3nLZ0Sg-unsplash.png
 
 <div class="mb-4 absolute top-20 left-12" style=" position: absolute; right:0; text-align: right;">
   <span class="text-6xl text-primary-lighter text-opacity-80" style="font-weight:500;" >
-    Joining Cybozu <light-icon icon="user-plus"></i> &/>
+    Joining Cybozu <light-icon icon="user-plus"/>
   </span>
   <div><br><br></div>
   <div>
