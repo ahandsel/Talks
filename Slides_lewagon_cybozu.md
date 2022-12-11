@@ -256,7 +256,7 @@ We support engineers in customizing & integrating Kintone in their workplace!
 -->
 
 ---
-layout: center-image
+layout: image-center
 image: ./lewagon_cybozu_graphics/kdp_collage.png
 ---
 
