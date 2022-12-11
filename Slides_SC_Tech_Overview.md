@@ -729,7 +729,7 @@ layout: my-two-columns
 
 
 ---
-layout: center-image
+layout: image-center
 image: ./Slides_SC_Tech_Overview/kintone_game.gif
 ---
 
