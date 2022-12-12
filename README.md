@@ -7,7 +7,7 @@
 ## Outline <!-- omit in toc -->
 <!-- markdownlint-disable MD007 -->
 * [Running for development](#running-for-development)
-* [Deploy in Github Pages](#deploy-in-github-pages)
+* [Deploy in GitHub Pages](#deploy-in-github-pages)
   * [First Time](#first-time)
   * [Format Slide Deck](#format-slide-deck)
   * [Upload Slidev via GitHub Actions](#upload-slidev-via-github-actions)
@@ -26,7 +26,7 @@ npm run dev Slides_my_slides.md
 
 Visit: <http://localhost:3030>
 
-## Deploy in Github Pages
+## Deploy in GitHub Pages
 
 ### First Time
 
