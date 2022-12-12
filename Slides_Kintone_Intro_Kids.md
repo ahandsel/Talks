@@ -413,5 +413,3 @@ image: ./Kintone/Animal_10.png
 layout: image
 image: ./Kintone/Slide20.png
 ---
-
-<!-- Thank you for your time -->
