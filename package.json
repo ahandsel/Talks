@@ -10,8 +10,10 @@
     "@slidev/cli": "^0.27.9",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "playwright-chromium": "^1.19.2",
     "slidev-theme-light-icons": "^1.0.2"
   },
-  "name": "talks"
+  "name": "talks",
+  "devDependencies": {
+    "playwright-chromium": "^1.28.1"
+  }
 }
