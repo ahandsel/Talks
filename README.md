@@ -85,7 +85,6 @@ Image Sizes
 | Title                                                                   | Slides Link                                                          | Status    |
 | ----------------------------------------------------------------------- | -------------------------------------------------------------------- | --------- |
 | [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md)                       | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/>            | Done ✅    |
-| [Slides_Kintone_Intro_Kids](Slides_Kintone_Intro_Kids.md)               | <https://ahandsel.github.io/Talks/Slides_Kintone_Intro_Kids/>        | Pending ✏️ |
+| [Slides_Kintone_Intro_Kids](Slides_Kintone_Intro_Kids.md)               | <https://ahandsel.github.io/Talks/Slides_Kintone_Intro_Kids/>        | Done ✅ |
 | [Slides_Book_ConnectingParagraphs](Slides_Book_ConnectingParagraphs.md) | <https://ahandsel.github.io/Talks/Slides_Book_ConnectingParagraphs/> | Done ✅    |
 | [Slides_KDP_Hiring_Jun_2022](Slides_KDP_Hiring_Jun_2022.md)             | <https://ahandsel.github.io/Talks/Slides_KDP_Hiring_Jun_2022/>       | Done ✅    |
-| [Slides_Kintone_Intro_Kids](Slides_Kintone_Intro_Kids.md) | <https://ahandsel.github.io/Talks/Slides_Kintone_Intro_Kids/> |
