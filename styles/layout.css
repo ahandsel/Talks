@@ -2,7 +2,7 @@
   @apply px-14 py-10 text-[1.1rem];
 
   h1, h2, h3, h4, p, div {
-    @apply select-none;
+    @apply select-all;
   }
 
   pre, code {
@@ -25,6 +25,14 @@
     @apply opacity-40;
   }
 
+  h4 {
+    @apply text-2xl;
+  }
+
+  h5 {
+    @apply text-1.9xl;
+  }
+
   p {
     @apply my-4 leading-6;
   }
@@ -39,6 +47,10 @@
 
   ul {
     list-style: square;
+  }
+
+  ol {
+    list-style: decimal;
   }
 
   li {
