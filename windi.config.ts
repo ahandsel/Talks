@@ -28,11 +28,6 @@ export default mergeWindicssConfig(
             lightest: "#06E5D2",
           },
         },
-        // fonts can be replaced here, remember to update the web font links in `index.html`
-        fontFamily: {
-          sans: '"Poppins","Nunito Sans", ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"',
-          mono: '"Fira Code", monospace',
-        },
       },
     },
   }),
