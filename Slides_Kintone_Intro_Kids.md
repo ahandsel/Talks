@@ -159,7 +159,7 @@ equal: true
 </div>
 
 
-#### Needs **high-level understanding** of databases
+#### Needs a **high-level understanding** of databases
 
 <br>
 
@@ -288,7 +288,7 @@ equal: true
 
 ### Created by [@RyBB](https://github.com/RyBB) - [Article](https://dev.to/will_yama/kintone-at-maker-faire-tokyo-2020-215k)
 
-Users are challenged to slice their enemies as quick as possible with an samurai sword!
+Users are challenged to slice their enemies as quickly as possible with a samurai sword!
 
 * Sensor records the sword action speed
 * Kintone hosts the game, scoreboard, & IoT data
