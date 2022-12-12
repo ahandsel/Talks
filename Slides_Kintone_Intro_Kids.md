@@ -11,6 +11,7 @@ fonts:
 title: Get Started with Kintone Web Database!
 selectable: true
 ---
+
 <div class="mb-4 absolute top-10 left-80" style="text-align:right;user-select:all;">
     <div class="text-7xl text-white text-opacity-100" style="font-weight:600;" >
       Kintone <light-icon icon="settings"/>
@@ -51,6 +52,7 @@ selectable: true
   </span>
 </div>
 
+
 ---
 layout: image-left-bar
 image: ./Kintone/Animal_6.png
@@ -69,6 +71,7 @@ Example Projects
 
 ## ③ How to Get Started? 💪
 When the fun starts
+
 
 ---
 layout: my-two-columns
@@ -119,7 +122,7 @@ layout: my-two-columns
 
 <br>
 
-![Kintone exchanging data from a smartphone](/Kintone_Intro/Fast_Database.png) 
+![Kintone exchanging data from a smartphone](/Kintone_Intro/Fast_Database.png)
 -->
 
 ---
@@ -142,6 +145,7 @@ layout: my-two-columns
 ::right::
 
 ![Kintone exchanging data from a smartphone](/Kintone_Intro/Kintone_DataExchange.png)
+
 
 ---
 layout: image-left
@@ -179,6 +183,7 @@ equal: true
 
 ## **No servers need** to be set up by the user
 
+
 ---
 layout: image
 image: ./Kintone/Red_Background_Left.png
@@ -200,6 +205,7 @@ image: ./Kintone/Red_Background_Left.png
     </div>
     <div><p></p></div>
 </div>
+
 
 ---
 layout: my-two-columns
@@ -240,6 +246,7 @@ image: ./Kintone_Intro/Kintone_REST_API_Request.png
   <br><br>
 </div>
 
+
 ---
 layout: image-center
 image: ./Kintone_Intro/Kintone_REST_API_Response.png
@@ -249,6 +256,7 @@ image: ./Kintone_Intro/Kintone_REST_API_Response.png
   Access Kintone DBs via REST API <light-icon icon="exchange"/>
   <br><br>
 </div>
+
 
 ---
 layout: image-center
@@ -260,12 +268,11 @@ image: ./Kintone_Intro/Kintone_REST_API_Flow.png
   <br><br>
 </div>
 
-<!-- 
+<!--
 Let’s say you’ve made some databases in Kintone and added some data in.
 You can make REST API calls from your App pointing to your Kintone environment, the Database ID you want to access and an API token for authentication to get your results.
 You can call REST APIs from most languages, wether it be node.js, python, php, Ruby etc.
-
- -->
+-->
 
 ---
 layout: image-right
@@ -302,7 +309,7 @@ image: ./Kintone_Intro/Example_flowerpot.png
 </div>
 <br>
 
-* Sensors are attached to the Mbed Microcontroller.
+* Sensors are attached to the Mbed Micro-controller.
 * Sensor values are periodically sent to Kintone via Node.js.
 * Node.js checks Kintone’s sensor values over time and controls motors of the flowerpot.
 * The flowerpot moves to are sunny location. -->
@@ -314,7 +321,6 @@ image: ./Kintone_Intro/Example_flowerpot.png
 * 2 M5Stick micro-controllers were used for sword & doll
 * The score ranking displayed information stored in the Kintone App, where scores of participants were automatically recorded via REST API after they finished playing the game.
 -->
-
 
 ---
 layout: image-right
@@ -335,6 +341,7 @@ Run a [Space Invaders game](https://phaser.io/examples/v2/games/invaders) on a K
 Game specifications (number of aliens, aliens' health, etc.) are specified as Kintone records.
 
 High scores can also be stored in Kintone.
+
 
 ---
 layout: my-two-columns
@@ -383,6 +390,7 @@ Here are some resources to help you use Kintone as your project's database!
 | <light-icon icon="lifebuoy"/> | [forum.kintone.dev](https://forum.kintone.dev/) | Post Questions |
 | <light-icon icon="brand-youtube"/> | [@KintoneDeveloperProgram](https://www.youtube.com/@KintoneDeveloperProgram) | Watch Tutorials |
 
+
 ---
 layout: image-left-bar
 image: ./Kintone/Animal_10.png
@@ -405,3 +413,5 @@ image: ./Kintone/Animal_10.png
 layout: image
 image: ./Kintone/Slide20.png
 ---
+
+<!-- Thank you for your time -->
