@@ -1,11 +1,13 @@
 # Welcome to My Talks
 
-* Powered by [Sli.dev](https://sli.dev) + Github Actions + Github Pages
+![Last Commit Shields.io](https://img.shields.io/github/last-commit/ahandsel/talks?style=for-the-badge)
+
+* Powered by [Sli.dev](https://sli.dev) + GitHub Actions + GitHub Pages
 * Thanks to [fguisso](https://github.com/fguisso/talks) for building the repo setup
 * Theme used is my iteration on [lightvue/slidev-theme-light-icons](https://github.com/lightvue/slidev-theme-light-icons)
 
 ## Outline <!-- omit in toc -->
-<!-- markdownlint-disable MD007 -->
+
 * [Running for development](#running-for-development)
 * [Deploy in GitHub Pages](#deploy-in-github-pages)
   * [First Time](#first-time)
@@ -15,7 +17,6 @@
 * [Resources on Creating Slides with Slidev](#resources-on-creating-slides-with-slidev)
 * [Additional Notes](#additional-notes)
 * [Past Talks](#past-talks)
-<!-- markdownlint-enable MD007 -->
 
 ## Running for development
 
@@ -82,9 +83,9 @@ Image Sizes
 
 ## Past Talks
 
-| Title                                                                   | Slides Link                                                          | Status    |
-| ----------------------------------------------------------------------- | -------------------------------------------------------------------- | --------- |
-| [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md)                       | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/>            | Done ✅    |
+| Title                                                                   | Slides Link                                                          | Status |
+| ----------------------------------------------------------------------- | -------------------------------------------------------------------- | ------ |
+| [Slides_lewagon_cybozu](Slides_lewagon_cybozu.md)                       | <https://ahandsel.github.io/Talks/Slides_lewagon_cybozu/>            | Done ✅ |
 | [Slides_Kintone_Intro_Kids](Slides_Kintone_Intro_Kids.md)               | <https://ahandsel.github.io/Talks/Slides_Kintone_Intro_Kids/>        | Done ✅ |
-| [Slides_Book_ConnectingParagraphs](Slides_Book_ConnectingParagraphs.md) | <https://ahandsel.github.io/Talks/Slides_Book_ConnectingParagraphs/> | Done ✅    |
-| [Slides_KDP_Hiring_Jun_2022](Slides_KDP_Hiring_Jun_2022.md)             | <https://ahandsel.github.io/Talks/Slides_KDP_Hiring_Jun_2022/>       | Done ✅    |
+| [Slides_Book_ConnectingParagraphs](Slides_Book_ConnectingParagraphs.md) | <https://ahandsel.github.io/Talks/Slides_Book_ConnectingParagraphs/> | Done ✅ |
+| [Slides_KDP_Hiring_Jun_2022](Slides_KDP_Hiring_Jun_2022.md)             | <https://ahandsel.github.io/Talks/Slides_KDP_Hiring_Jun_2022/>       | Done ✅ |
