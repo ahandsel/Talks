@@ -56,6 +56,7 @@ selectable: true
   </span>
 </div>
 
+
 ---
 layout: simple
 ---
@@ -179,6 +180,7 @@ Get Started <i class="light-icon-flame"></i>
 <div text-align="center">
   <img src="/KDP_React_Workshop/QRCode_Kintone.png" alt="QR Code for kintone.dev/new" width="225">
 </div>
+
 
 ---
 layout: image-center
@@ -419,6 +421,7 @@ image: ./KDP_React_Workshop/Job_Bar.png
 ### For More Details
 * [bit.ly/cybozu_creator_role](https://bit.ly/cybozu_creator_role)
 
+
 ---
 layout: my-two-columns
 ---
@@ -495,6 +498,7 @@ image: ./Kintone/Slide20.png
 ---
 
 <!-- Thank You Slide -->
+
 
 ---
 layout: image-right
