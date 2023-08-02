@@ -241,6 +241,7 @@ How to Enter:
 
 Criteria: **Creativity**, **Look & Feel**, **Article Quality**, & **Kintone Usage**
 
+## <i class="light-icon-click"></i> [bit.ly/kintonecontest23](https://bit.ly/kintonecontest23) <i class="light-icon-click"></i>
 
 ---
 layout: image-right
@@ -258,9 +259,11 @@ equal: true
 
 Users are challenged to slice their enemies as quickly as possible with a samurai sword!
 
-* Sensor records the sword action speed
-* Kintone hosts the game, scoreboard, & IoT data
-* Doll's magnetic head falls off when the user wins
+Sensor records the sword action speed
+
+Kintone hosts the game, scoreboard, & IoT data
+
+Doll's magnetic head falls off when the user wins
 
 
 ---
@@ -304,7 +307,7 @@ If so, watch our tutorial as we go over how to create a gallery with a built-in 
 
 The text prompt inputting and image storage is all done in Kintone!
 
-#### [youtu.be/fnjteLW8F8I](https://youtu.be/fnjteLW8F8I)
+#### <i class="light-icon-brand-youtube"></i> [youtu.be/fnjteLW8F8I](https://youtu.be/fnjteLW8F8I)
 
 
 ---
@@ -418,8 +421,7 @@ image: ./KDP_React_Workshop/Job_Bar.png
 
 <br>
 
-### For More Details
-* [bit.ly/cybozu_creator_role](https://bit.ly/cybozu_creator_role)
+#### <i class="light-icon-click"></i> [bit.ly/cybozu_creator_role](https://bit.ly/cybozu_creator_role) <i class="light-icon-click"></i>
 
 
 ---
@@ -522,3 +524,5 @@ How to Enter:
 3. <i class="light-icon-cloud-upload"></i> Submit on the [Contest Submission](https://forum.kintone.dev/t/799) topic.
 
 Criteria: **Creativity**, **Look & Feel**, **Article Quality**, & **Kintone Usage**
+
+## <i class="light-icon-click"></i> [bit.ly/kintonecontest23](https://bit.ly/kintonecontest23) <i class="light-icon-click"></i>
