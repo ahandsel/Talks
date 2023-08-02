@@ -52,6 +52,7 @@ selectable: true
   </span>
 </div>
 
+
 ---
 layout: simple
 ---
@@ -91,6 +92,7 @@ We are from the Kintone Developer Relations Team!
 </div>
 
 <style> .slidev-layout th { font-weight: bold; text-align: center } .slidev-layout td { text-align: center } .slidev-layout table { text-align: center;} .slidev-layout img { display: block; margin: auto; } </style>
+
 
 ---
 layout: my-two-columns
@@ -134,6 +136,7 @@ Refer to our Node.JS Install Guide for details:
   <img src="/KDP_React_Workshop/QRCode_NodeInstallGuide.png" alt="QR Code for Node.js & npm Installation Guide" width="225">
 </div>
 
+
 ---
 layout: my-two-columns
 ---
@@ -174,6 +177,7 @@ Get Started <i class="light-icon-flame"></i>
   <img src="/KDP_React_Workshop/QRCode_Kintone.png" alt="QR Code for kintone.dev/new" width="225">
 </div>
 
+
 ---
 layout: my-two-columns
 ---
@@ -202,6 +206,7 @@ Fill out the Developer License Registration form for your free Kintone Subdomain
 
 ![Kintone exchanging data from a smartphone](/Kintone/Kintone_New.png)
 
+
 ---
 layout: image-right
 image: ./KDP_React_Workshop/Contest_Bar.png
@@ -225,6 +230,7 @@ How to Enter:
 
 Criteria: **Creativity**, **Look & Feel**, **Article Quality**, & **Kintone Usage**
 
+
 ---
 layout: image-right
 image: ./Kintone_Intro/Example_Samurai.gif
@@ -245,6 +251,7 @@ Users are challenged to slice their enemies as quickly as possible with a samura
 * Kintone hosts the game, scoreboard, & IoT data
 * Doll's magnetic head falls off when the user wins
 
+
 ---
 layout: image-right
 image: ./Kintone_Intro/Example_SpaceInvaders.gif
@@ -264,6 +271,7 @@ Run a [Space Invaders game](https://phaser.io/examples/v2/games/invaders) on a K
 Game specifications (number of aliens, aliens' health, etc.) are specified as Kintone records.
 
 High scores can also be stored in Kintone.
+
 
 ---
 layout: image-right
@@ -286,6 +294,7 @@ If so, watch our tutorial as we go over how to create a gallery with a built-in 
 The text prompt inputting and image storage is all done in Kintone!
 
 #### [youtu.be/fnjteLW8F8I](https://youtu.be/fnjteLW8F8I)
+
 
 ---
 layout: image-left-bar
@@ -323,6 +332,7 @@ image: ./Kintone/Animal_10.png
 
 <img src="/Kintone/KDP_Swag.png" alt="Bottles, backpacks, PopSockets, & more!" style="width: 60%;">
 
+
 ---
 layout: intro
 image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png
@@ -347,6 +357,7 @@ image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png
     </p>
   </div>
 </div>
+
 
 ---
 layout: image-left-bar
@@ -441,6 +452,7 @@ Developer Tools Engineering is a great role for those who want to build everythi
 ---
 layout: my-two-columns
 ---
+
 <div class="text-4xl text-primary dark:text-primary top-1" style="font-weight:500;" >
 
 Want to learn more? <i class="light-icon-bolt"></i>
@@ -470,6 +482,7 @@ Check out this Japanese article to learn more about Cybozu's System Consulting D
       cybozu.co.jp/company/job/recruitment/newgrad/
     </a>
   </div>
+
 
 ---
 layout: image
