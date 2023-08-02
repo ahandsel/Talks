@@ -243,6 +243,7 @@ Criteria: **Creativity**, **Look & Feel**, **Article Quality**, & **Kintone Usag
 
 ## <i class="light-icon-click"></i> [bit.ly/kintonecontest23](https://bit.ly/kintonecontest23) <i class="light-icon-click"></i>
 
+
 ---
 layout: image-right
 image: ./Kintone_Intro/Example_Samurai.gif
