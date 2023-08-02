@@ -26,7 +26,7 @@ const props = defineProps({
     <!-- https://github.com/lightvue/slidev-theme-light-icons/blob/master/components/BubbleFrame.vue -->
       <BubbleFrame />
     </div>
-    <div class="absolute top-10 left-5">
+    <div>
         <slot />
     </div>
   </div>
