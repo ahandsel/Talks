@@ -13,7 +13,7 @@ title: React & REST API Workshop by Kintone!
 selectable: true
 ---
 
-<div class="mb-4 absolute top-20 left-75" style="text-align:right;user-select:all;">
+<div class="mb-4 absolute top-20 left-70" style="text-align:right;user-select:all;">
     <div class="text-7xl text-white text-opacity-100" style="font-weight:600;" >
       React x REST API <light-icon icon="settings"/>
     </div>
@@ -22,36 +22,39 @@ selectable: true
       JavaScript Workshop <light-icon icon="database"/>
     </div>
     <div><p><br></p></div>
-    <div class="text-5xl text-white text-opacity-100" style="font-weight:600;" >
-      <i>By Kintone</i>&nbsp;&nbsp;
-    </div>
+    <!-- <div class="text-5xl text-white text-opacity-100" style="font-weight:600;" >
+      <i>By Kintone</i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </div> -->
     <div><p></p></div>
   </div>
 
-<div class="absolute bottom-5 right-12">
-  <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
+<div class="text-3xl absolute bottom-5 right-4" style="text-align:left">
+  <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-75 flex items-center" style="text-align:left">
     <a
       href="https://kintone.dev/"
       target="_blank"
       alt="Kintone Developer Program"
       class="!hover:text-white">
-      Kintone Developer Program  <light-icon icon="book" size="24px"/>
+      <light-icon icon="book" size="24px"/>
+      Kintone Developer Program  
     </a>
   </div>
-  <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
+  <br>
+  <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-75 flex items-center" style="text-align:left">
     <a
-      href="https://ahandsel.github.io/Talks/Slides_KDP_React_Workshop/"
+      href="https://github.com/ahandsel/Talks"
       target="_blank"
       alt="GitHub"
       class="!hover:text-white">
-      bit.ly/KDP_React_Slides  <light-icon icon="slideshow" size="24px"/>
+      <light-icon icon="cloud-download" size="24px"/>
+      bit.ly/KDP_React_Slides  
     </a>
   </div>
-  <span @click="$slidev.nav.next" class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-60 flex justify-center items-center">
-    Press Space for the next page  <light-icon icon="arrow-narrow-right" size="24px"/>
+  <br>
+  <span @click="$slidev.nav.next" class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-75 flex justify-center items-center">
+    Hit Space for the next page  <light-icon icon="arrow-narrow-right" size="24px"/>
   </span>
 </div>
-
 
 ---
 layout: simple
@@ -108,7 +111,7 @@ Prep <i class="light-icon-bolt"></i>
 
 ::left::
 
-## WiFi <i class="light-icon-wifi"></i>
+## Wi-Fi <i class="light-icon-wifi"></i>
 
 <br>
 
@@ -177,6 +180,12 @@ Get Started <i class="light-icon-flame"></i>
   <img src="/KDP_React_Workshop/QRCode_Kintone.png" alt="QR Code for kintone.dev/new" width="225">
 </div>
 
+---
+layout: image-center
+---
+
+<Youtube id="un_vMKv_6hM" width="890" height="450"/>
+
 
 ---
 layout: my-two-columns
@@ -218,7 +227,7 @@ image: ./KDP_React_Workshop/Contest_Bar.png
 
 <br>
 
-Deadline: **Thu, August 31, 23:59 (Pacific)**
+Deadline: **Thu, August 31, 23:59**
 
 Prizes: **$100 gift cards** to **15 winners**
 
@@ -302,16 +311,16 @@ image: ./Kintone/Animal_3.png
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
-  Where to get help? <light-icon icon="help"/>
+  Where to get help? <light-icon icon="bulb"/>
 </div>
 
 <br>
 
 Here are some resources to help you use Kintone as your project's database!
 
-| <light-icon icon="home"/> | [kintone.dev](https://kintone.dev/) | Read API Docs & Tutorials
+| <light-icon icon="book"/> | [kintone.dev](https://kintone.dev/) | Read API Docs & Tutorials
 | --- | --- | --- |
-| <light-icon icon="lifebuoy"/> | [forum.kintone.dev](https://forum.kintone.dev/) | Post Questions |
+| <light-icon icon="help"/> | [forum.kintone.dev](https://forum.kintone.dev/) | Post Questions |
 | <light-icon icon="brand-youtube"/> | [@KintoneDeveloperProgram](https://www.youtube.com/@KintoneDeveloperProgram) | Watch Tutorials |
 
 
@@ -335,7 +344,7 @@ image: ./Kintone/Animal_10.png
 
 ---
 layout: intro
-image: ./background/sakura-aj-McsNra2VRQQ-unsplash.png
+image: ./background/tokyo_blue-ryo-yoshitake-rD28m9BmXVs-unsplash.png
 ---
 
 <div class="mb-4 absolute top-20 left-12" style=" position: absolute; right:0; text-align: right;">
@@ -407,12 +416,8 @@ image: ./KDP_React_Workshop/Job_Bar.png
 
 <br>
 
-  <div class="text-primary dark:text-primary pb-2 pt-4">
-    <a href="https://cybozu.co.jp/recruit/entry/career/technical-content-creator.html">
-      Check out the position at: bit.ly/cybozu_creator_role
-    </a>
-  </div>
-
+### For More Details
+* [bit.ly/cybozu_creator_role](https://bit.ly/cybozu_creator_role)
 
 ---
 layout: my-two-columns
@@ -488,3 +493,28 @@ Check out this Japanese article to learn more about Cybozu's System Consulting D
 layout: image
 image: ./Kintone/Slide20.png
 ---
+
+<!-- Thank You Slide -->
+
+---
+layout: image-right
+image: ./KDP_React_Workshop/Contest_Bar.png
+---
+
+<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:text;" >
+  Kintone Customization Contest 2023 <light-icon icon="trophy"/>
+</div>
+
+<br>
+
+Deadline: **Thu, August 31, 23:59**
+
+Prizes: **$100 gift cards** to **15 winners**
+
+How to Enter:
+
+1. <i class="light-icon-bulb"></i> Build a cool Kintone customization (Web app, plug-in, etc.)
+2. <i class="light-icon-pencil"></i> Write up how you built it & [post your article on DEV](https://dev.to/new)
+3. <i class="light-icon-cloud-upload"></i> Submit on the [Contest Submission](https://forum.kintone.dev/t/799) topic.
+
+Criteria: **Creativity**, **Look & Feel**, **Article Quality**, & **Kintone Usage**
