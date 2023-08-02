@@ -89,3 +89,4 @@ Image Sizes
 | [Slides_Kintone_Intro_Kids](Slides_Kintone_Intro_Kids.md)               | <https://ahandsel.github.io/Talks/Slides_Kintone_Intro_Kids/>        | Done ✅ |
 | [Slides_Book_ConnectingParagraphs](Slides_Book_ConnectingParagraphs.md) | <https://ahandsel.github.io/Talks/Slides_Book_ConnectingParagraphs/> | Done ✅ |
 | [Slides_KDP_Hiring_Jun_2022](Slides_KDP_Hiring_Jun_2022.md)             | <https://ahandsel.github.io/Talks/Slides_KDP_Hiring_Jun_2022/>       | Done ✅ |
+| [Slides_KDP_React_Workshop](Slides_KDP_React_Workshop.md) | <https://ahandsel.github.io/Talks/Slides_KDP_React_Workshop/> |
