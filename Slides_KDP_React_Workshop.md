@@ -78,6 +78,7 @@ We are from the Kintone Developer Relations Team!
         <th>Sean</th>
         <th>Jesslyn</th>
         <th>Genji</th>
+        <th>Naberina</th>
       </tr>
     </thead>
     <tbody>
@@ -85,11 +86,13 @@ We are from the Kintone Developer Relations Team!
         <td>Presenter</td>
         <td>Writer</td>
         <td>Organizer</td>
+        <td>Supporter</td>
       </tr>
       <tr>
         <td><img src="/KDP_React_Workshop/KDP_Sean.png" alt="Photo of Sean" width="235"></td>
         <td><img src="/KDP_React_Workshop/KDP_Jesslyn.png" alt="Photo of Jesslyn" width="235"></td>
         <td><img src="/KDP_React_Workshop/KDP_Genji.png" alt="Photo of Genji" width="235"></td>
+        <td><img src="/KDP_React_Workshop/KDP_Naberina.png" alt="Photo of Naberina" width="235"></td>
       </tr>
     </tbody>
   </table>
