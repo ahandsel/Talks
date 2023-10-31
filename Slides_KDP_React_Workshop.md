@@ -15,11 +15,11 @@ selectable: true
 
 <div class="mb-4 absolute top-20 left-70" style="text-align:right;user-select:all;">
     <div class="text-7xl text-white text-opacity-100" style="font-weight:600;" >
-      React x REST API <light-icon icon="settings"/>
+      React x REST API <mdi-cog/>
     </div>
     <div><br></div>
     <div class="text-6xl text-white text-opacity-100" style="font-weight:600;" >
-      JavaScript Workshop <light-icon icon="database"/>
+      JavaScript Workshop <mdi-database/>
     </div>
     <div><p><br></p></div>
     <!-- <div class="text-5xl text-white text-opacity-100" style="font-weight:600;" >
@@ -29,30 +29,30 @@ selectable: true
   </div>
 
 <div class="text-3xl absolute bottom-5 right-4" style="text-align:left">
-  <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-75 flex items-center" style="text-align:left">
+  <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-75" style="text-align:left">
     <a
       href="https://kintone.dev/"
       target="_blank"
       alt="Kintone Developer Program"
       class="!hover:text-white">
-      <light-icon icon="book" size="24px"/>
+      <mdi-book/>
       Kintone Developer Program  
     </a>
   </div>
   <br>
-  <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-75 flex items-center" style="text-align:left">
+  <div class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-75" style="text-align:left">
     <a
       href="https://github.com/ahandsel/Talks"
       target="_blank"
       alt="GitHub"
       class="!hover:text-white">
-      <light-icon icon="cloud-download" size="24px"/>
+      <mdi-cloud-download/>
       bit.ly/KDP_React_Slides  
     </a>
   </div>
   <br>
-  <span @click="$slidev.nav.next" class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-75 flex justify-center items-center">
-    Hit Space for the next page  <light-icon icon="arrow-narrow-right" size="24px"/>
+  <span @click="$slidev.nav.next" class="p-1 rounded cursor-pointer hover:bg-white hover:bg-opacity-10 hover:opacity-90 opacity-75">
+    <mdi-arrow-right-circle/> Hit Space for the next page
   </span>
 </div>
 
@@ -62,7 +62,7 @@ layout: simple
 ---
 
 <div class="text-4xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Hello 👋
+  Hello <mdi-human-greeting-variant/>
 </div>
 
 <br>
@@ -107,7 +107,7 @@ layout: my-two-columns
 
 <div class="text-4xl text-primary dark:text-primary top-1" style="font-weight:500;text-align:left" >
 
-Prep <i class="light-icon-bolt"></i>
+Prep <mdi-lightning-bolt/>
 
 </div>
 
@@ -115,7 +115,7 @@ Prep <i class="light-icon-bolt"></i>
 
 ::left::
 
-## Wi-Fi <i class="light-icon-wifi"></i>
+## Wi-Fi <material-symbols-wifi/>
 
 <br>
 
@@ -131,7 +131,7 @@ Prep <i class="light-icon-bolt"></i>
 
 ::right::
 
-## Node.JS <i class="light-icon-code"></i>
+## Node.JS <material-symbols-code/>
 
 **Node.js v18.16.1** or higher is required!  
 ([The current LTS version](https://nodejs.org/) is recommended)
@@ -150,7 +150,7 @@ layout: my-two-columns
 
 <div class="text-4xl text-primary dark:text-primary top-1" style="font-weight:500;text-align:left" >
 
-Get Started <i class="light-icon-flame"></i>
+Get Started <mdi-fire/>
 
 </div>
 
@@ -158,7 +158,7 @@ Get Started <i class="light-icon-flame"></i>
 
 ::left::
 
-## Clone the GitHub Repo <i class="light-icon-brand-github"></i>
+## Clone the GitHub Repo <mdi-github/>
 ### Boilerplate Code for the Workshop
 ###  
 ###  
@@ -171,7 +171,7 @@ Get Started <i class="light-icon-flame"></i>
 
 ::right::
 
-## Web Database - Kintone <i class="light-icon-database"></i>
+## Web Database - Kintone <material-symbols-database/>
 ### Low-Code / No-Code Platform
 ###  
 ###  
@@ -201,7 +201,7 @@ layout: my-two-columns
 <br>
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:text;" >
-  Get Your Free Kintone <light-icon icon="bolt"/>
+  Get Your Free Kintone <mdi-lightning-bolt/>
 </div>
 <br>
 
@@ -220,33 +220,6 @@ Fill out the Developer License Registration form for your free Kintone Subdomain
 
 ![Kintone exchanging data from a smartphone](/Kintone/Kintone_New.png)
 
-
----
-layout: image-right
-image: ./KDP_React_Workshop/Contest_Bar.png
----
-
-<div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:text;" >
-  Kintone Customization Contest 2023 <light-icon icon="trophy"/>
-</div>
-
-<br>
-
-Deadline: **Thu, August 31, 23:59**
-
-Prizes: **$100 gift cards** to **15 winners**
-
-How to Enter:
-
-1. <i class="light-icon-bulb"></i> Build a cool Kintone customization (Web app, plug-in, etc.)
-2. <i class="light-icon-pencil"></i> Write up how you built it & [post your article on DEV](https://dev.to/new)
-3. <i class="light-icon-cloud-upload"></i> Submit on the [Contest Submission](https://forum.kintone.dev/t/799) topic.
-
-Criteria: **Creativity**, **Look & Feel**, **Article Quality**, & **Kintone Usage**
-
-## <i class="light-icon-click"></i> [bit.ly/kintonecontest23](https://bit.ly/kintonecontest23) <i class="light-icon-click"></i>
-
-
 ---
 layout: image-right
 image: ./Kintone_Intro/Example_Samurai.gif
@@ -254,7 +227,7 @@ equal: true
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
-  IoT Samurai Swords <light-icon icon="slice"/>
+  IoT Samurai Swords <mdi-knife/>
 </div>
 
 <br>
@@ -277,7 +250,7 @@ equal: true
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
-  Space Invaders Game <light-icon icon="alien"/>
+  Space Invaders Game <material-symbols-robot-2/>
 </div>
 
 <br>
@@ -298,7 +271,7 @@ equal: true
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
-  Art Generator <light-icon icon="paint"/>
+  Art Generator <material-symbols-format-paint/>
 </div>
 
 <br>
@@ -311,7 +284,7 @@ If so, watch our tutorial as we go over how to create a gallery with a built-in 
 
 The text prompt inputting and image storage is all done in Kintone!
 
-#### <i class="light-icon-brand-youtube"></i> [youtu.be/fnjteLW8F8I](https://youtu.be/fnjteLW8F8I)
+#### <mdi-youtube/> [youtu.be/fnjteLW8F8I](https://youtu.be/fnjteLW8F8I)
 
 
 ---
@@ -320,17 +293,17 @@ image: ./Kintone/Animal_3.png
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:all;" >
-  Where to get help? <light-icon icon="bulb"/>
+  Where to get help? <mdi-bulb/>
 </div>
 
 <br>
 
 Here are some resources to help you use Kintone as your project's database!
 
-| <light-icon icon="book"/> | [kintone.dev](https://kintone.dev/) | Read API Docs & Tutorials
-| --- | --- | --- |
-| <light-icon icon="help"/> | [forum.kintone.dev](https://forum.kintone.dev/) | Post Questions |
-| <light-icon icon="brand-youtube"/> | [@KintoneDeveloperProgram](https://www.youtube.com/@KintoneDeveloperProgram) | Watch Tutorials |
+| <material-symbols-book/>          | [kintone.dev](https://kintone.dev/)                                          | Read API Docs & Tutorials |
+| --------------------------------- | ---------------------------------------------------------------------------- | ------------------------- |
+| <material-symbols-help/>          | [forum.kintone.dev](https://forum.kintone.dev/)                              | Post Questions            |
+| <mdi-youtube/> | [@KintoneDeveloperProgram](https://www.youtube.com/@KintoneDeveloperProgram) | Watch Tutorials           |
 
 
 ---
@@ -339,7 +312,7 @@ image: ./Kintone/Animal_10.png
 ---
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:text;" >
-  Thank You Gift! <light-icon icon="rocket"/>
+  Thank You Gift! <material-symbols-rocket/>
 </div>
 
 <br>
@@ -356,9 +329,9 @@ layout: intro
 image: ./background/tokyo_blue-ryo-yoshitake-rD28m9BmXVs-unsplash.png
 ---
 
-<div class="mb-4 absolute top-20 left-12" style=" position: absolute; right:0; text-align: right;">
+<div class="mb-4 absolute top-20 left-12" style="right:0; text-align: right;">
   <span class="text-6xl text-primary-lighter text-opacity-80" style="font-weight:500; font-weight: bold;" >
-    Join our DevRel Team <i class="light-icon-user-plus"></i> &nbsp;
+    Join our DevRel Team <material-symbols-supervised-user-circle/> &nbsp;
   </span>
   <div><br><br></div>
   <div style="font-weight:500; font-weight: bold;">
@@ -370,7 +343,7 @@ image: ./background/tokyo_blue-ryo-yoshitake-rD28m9BmXVs-unsplash.png
       &nbsp; &nbsp; &nbsp; &nbsp;
       <br>
       <br>
-      ✏️ Technical Content Creator
+      <mdi-fountain-pen/> API Technical Writer
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     </p>
   </div>
@@ -383,7 +356,7 @@ image: ./KDP_Hiring_Jun_2022/technical_content_creator.png
 ---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Technical Content Creator <i class="light-icon-pencil"></i>
+  API Technical Writer <mdi-fountain-pen/>
 </div>
 
 ### Mission?
@@ -393,7 +366,7 @@ Create vital content for global engineers to use & build on Kintone!
 * Produce [technical tutorials](https://kintone.dev/en/tutorials/)
 * Write [API documentation](https://kintone.dev/en/docs/)
 * Execute [marketing campaigns](https://kintone.dev/en/landing-page/hackathon/)
-* Optimize our [kintone\.dev](https://kintone.dev/) site
+* Optimize our [kintone.dev](https://kintone.dev/) site
 * Manage our [developer forum](https://forum.kintone.dev/)
 * Connect with engineers around the world!
 
@@ -404,7 +377,7 @@ image: ./KDP_React_Workshop/Job_Bar.png
 ---
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
-  Requirements for the Roles <i class="light-icon-pencil"></i>
+  Requirements for the Roles <mdi-pencil/>
 </div>
 
 <br>
@@ -425,7 +398,7 @@ image: ./KDP_React_Workshop/Job_Bar.png
 
 <br>
 
-#### <i class="light-icon-click"></i> [bit.ly/cybozu_creator_role](https://bit.ly/cybozu_creator_role) <i class="light-icon-click"></i>
+#### <mdi-cursor-default-click/> [cybozu.co.jp/recruit/entry/career/api-technical-writer.html](https://cybozu.co.jp/recruit/entry/career/api-technical-writer.html)
 
 
 ---
@@ -434,7 +407,7 @@ layout: my-two-columns
 
 <div class="text-3xl text-primary dark:text-primary top-1" style="font-weight:500;" >
     <a href="https://cybozu.co.jp/recruit/job/system-consulting.html">
-      Other Engineering Positions <i class="light-icon-sitemap"></i>
+      Other Engineering Positions <mdi-sitemap/>
     </a>
   </div>
 
@@ -445,7 +418,7 @@ layout: my-two-columns
 
 ::left::
 
-## Technical Engineer <i class="light-icon-tool"></i>
+## Technical Engineer <mdi-tools/>
 ### Technical Engineering Division
 
 This division provides technical support to our partner firms with everything from servers, networks, databases, backups, and integrations.
@@ -454,7 +427,7 @@ Technical Engineering is a great role for those who want to work with backend te
 
 ::right::
 
-## Developer Tools Engineer <i class="light-icon-tools"></i>
+## Developer Tools Engineer <material-symbols-tools-power-drill/>
 ### System Development Division
 
 This division creates tools that external developers use to build integrations and customizations on Cybozu's products.
@@ -469,7 +442,7 @@ layout: my-two-columns
 
 <div class="text-4xl text-primary dark:text-primary top-1" style="font-weight:500;" >
 
-Want to learn more? <i class="light-icon-bolt"></i>
+Want to learn more? <mdi-lightning-bolt/>
 
 </div>
 
@@ -505,14 +478,12 @@ image: ./Kintone/Slide20.png
 
 <!-- Thank You Slide -->
 
-
----
+<!-- 
 layout: image-right
 image: ./KDP_React_Workshop/Contest_Bar.png
----
 
 <div class="text-5xl text-primary dark:text-primary top-1" style="font-weight:500;user-select:text;" >
-  Kintone Customization Contest 2023 <light-icon icon="trophy"/>
+  Kintone Customization Contest 2023 <material-symbols-trophy/>
 </div>
 
 <br>
@@ -523,10 +494,11 @@ Prizes: **$100 gift cards** to **15 winners**
 
 How to Enter:
 
-1. <i class="light-icon-bulb"></i> Build a cool Kintone customization (Web app, plug-in, etc.)
-2. <i class="light-icon-pencil"></i> Write up how you built it & [post your article on DEV](https://dev.to/new)
-3. <i class="light-icon-cloud-upload"></i> Submit on the [Contest Submission](https://forum.kintone.dev/t/799) topic.
+1. <mdi-bulb/> Build a cool Kintone customization (Web app, plug-in, etc.)
+2. <mdi-pencil/> Write up how you built it & [post your article on DEV](https://dev.to/new)
+3. <material-symbols-cloud-upload/> Submit on the [Contest Submission](https://forum.kintone.dev/t/799) topic.
 
 Criteria: **Creativity**, **Look & Feel**, **Article Quality**, & **Kintone Usage**
 
-## <i class="light-icon-click"></i> [bit.ly/kintonecontest23](https://bit.ly/kintonecontest23) <i class="light-icon-click"></i>
+## <mdi-cursor-default-click/> [bit.ly/kintonecontest23](https://bit.ly/kintonecontest23) <mdi-cursor-default-click/>
+-->
