@@ -4,7 +4,9 @@
 
 * Powered by [Sli.dev](https://sli.dev) + GitHub Actions + GitHub Pages
 * Thanks to [fguisso](https://github.com/fguisso/talks) for building the repo setup
-* Theme used is my iteration on [lightvue/slidev-theme-light-icons](https://github.com/lightvue/slidev-theme-light-icons)
+* Theme used is my iteration on:
+  * [lightvue/slidev-theme-light-icons](https://github.com/lightvue/slidev-theme-light-icons)
+  * [Dawntraoz/slidev-theme-unicorn](https://github.com/Dawntraoz/slidev-theme-unicorn)
 
 ## Outline <!-- omit in toc -->
 
